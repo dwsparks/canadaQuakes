@@ -1,0 +1,2372 @@
+{
+  "metadata": {
+    "request": {
+      "dateCreated": "2014-03-02T02:01:32-00:00",
+      "dateModified": "2014-02-28T20:28:36-00:00",
+      "licenses": [
+        "http://data.gc.ca/eng/open-government-licence-canada"
+      ],
+      "name": [],
+      "resultCount": 4780
+    }
+  },
+  "latest": {
+    "7d": "/api/earthquakes/latest/7d.json",
+    "30d": "/api/earthquakes/latest/30d.json",
+    "365d": "/api/earthquakes/latest/365d.json"
+  },
+  "latitudes": {
+    "35": "/api/earthquakes/coordinates/35.json",
+    "36": "/api/earthquakes/coordinates/36.json",
+    "37": "/api/earthquakes/coordinates/37.json",
+    "38": "/api/earthquakes/coordinates/38.json",
+    "39": "/api/earthquakes/coordinates/39.json",
+    "40": "/api/earthquakes/coordinates/40.json",
+    "41": "/api/earthquakes/coordinates/41.json",
+    "42": "/api/earthquakes/coordinates/42.json",
+    "43": "/api/earthquakes/coordinates/43.json",
+    "44": "/api/earthquakes/coordinates/44.json",
+    "45": "/api/earthquakes/coordinates/45.json",
+    "46": "/api/earthquakes/coordinates/46.json",
+    "47": "/api/earthquakes/coordinates/47.json",
+    "48": "/api/earthquakes/coordinates/48.json",
+    "49": "/api/earthquakes/coordinates/49.json",
+    "50": "/api/earthquakes/coordinates/50.json",
+    "51": "/api/earthquakes/coordinates/51.json",
+    "52": "/api/earthquakes/coordinates/52.json",
+    "53": "/api/earthquakes/coordinates/53.json",
+    "54": "/api/earthquakes/coordinates/54.json",
+    "55": "/api/earthquakes/coordinates/55.json",
+    "56": "/api/earthquakes/coordinates/56.json",
+    "57": "/api/earthquakes/coordinates/57.json",
+    "58": "/api/earthquakes/coordinates/58.json",
+    "59": "/api/earthquakes/coordinates/59.json",
+    "60": "/api/earthquakes/coordinates/60.json",
+    "61": "/api/earthquakes/coordinates/61.json",
+    "62": "/api/earthquakes/coordinates/62.json",
+    "63": "/api/earthquakes/coordinates/63.json",
+    "64": "/api/earthquakes/coordinates/64.json",
+    "65": "/api/earthquakes/coordinates/65.json",
+    "66": "/api/earthquakes/coordinates/66.json",
+    "67": "/api/earthquakes/coordinates/67.json",
+    "68": "/api/earthquakes/coordinates/68.json",
+    "69": "/api/earthquakes/coordinates/69.json",
+    "70": "/api/earthquakes/coordinates/70.json",
+    "71": "/api/earthquakes/coordinates/71.json",
+    "72": "/api/earthquakes/coordinates/72.json",
+    "73": "/api/earthquakes/coordinates/73.json",
+    "74": "/api/earthquakes/coordinates/74.json",
+    "75": "/api/earthquakes/coordinates/75.json",
+    "76": "/api/earthquakes/coordinates/76.json",
+    "77": "/api/earthquakes/coordinates/77.json",
+    "78": "/api/earthquakes/coordinates/78.json",
+    "79": "/api/earthquakes/coordinates/79.json",
+    "80": "/api/earthquakes/coordinates/80.json",
+    "81": "/api/earthquakes/coordinates/81.json",
+    "82": "/api/earthquakes/coordinates/82.json",
+    "83": "/api/earthquakes/coordinates/83.json",
+    "84": "/api/earthquakes/coordinates/84.json",
+    "85": "/api/earthquakes/coordinates/85.json",
+    "86": "/api/earthquakes/coordinates/86.json"
+  },
+  "dates": {
+    "1638": {
+      "complete": "/api/earthquakes/date/1638.json",
+      "06": "/api/earthquakes/date/1638-06.json"
+    },
+    "1643": {
+      "complete": "/api/earthquakes/date/1643.json",
+      "03": "/api/earthquakes/date/1643-03.json"
+    },
+    "1661": {
+      "complete": "/api/earthquakes/date/1661.json",
+      "02": "/api/earthquakes/date/1661-02.json"
+    },
+    "1663": {
+      "11": "/api/earthquakes/date/1663-11.json",
+      "complete": "/api/earthquakes/date/1663.json",
+      "02": "/api/earthquakes/date/1663-02.json"
+    },
+    "1665": {
+      "10": "/api/earthquakes/date/1665-10.json",
+      "complete": "/api/earthquakes/date/1665.json",
+      "02": "/api/earthquakes/date/1665-02.json"
+    },
+    "1668": {
+      "complete": "/api/earthquakes/date/1668.json",
+      "04": "/api/earthquakes/date/1668-04.json",
+      "06": "/api/earthquakes/date/1668-06.json"
+    },
+    "1669": {
+      "11": "/api/earthquakes/date/1669-11.json",
+      "complete": "/api/earthquakes/date/1669.json"
+    },
+    "1673": {
+      "12": "/api/earthquakes/date/1673-12.json",
+      "complete": "/api/earthquakes/date/1673.json"
+    },
+    "1686": {
+      "complete": "/api/earthquakes/date/1686.json",
+      "02": "/api/earthquakes/date/1686-02.json"
+    },
+    "1701": {
+      "complete": "/api/earthquakes/date/1701.json",
+      "02": "/api/earthquakes/date/1701-02.json",
+      "03": "/api/earthquakes/date/1701-03.json"
+    },
+    "1721": {
+      "complete": "/api/earthquakes/date/1721.json",
+      "01": "/api/earthquakes/date/1721-01.json"
+    },
+    "1727": {
+      "11": "/api/earthquakes/date/1727-11.json",
+      "12": "/api/earthquakes/date/1727-12.json",
+      "complete": "/api/earthquakes/date/1727.json"
+    },
+    "1728": {
+      "complete": "/api/earthquakes/date/1728.json",
+      "01": "/api/earthquakes/date/1728-01.json",
+      "02": "/api/earthquakes/date/1728-02.json"
+    },
+    "1729": {
+      "12": "/api/earthquakes/date/1729-12.json",
+      "complete": "/api/earthquakes/date/1729.json",
+      "08": "/api/earthquakes/date/1729-08.json"
+    },
+    "1730": {
+      "12": "/api/earthquakes/date/1730-12.json",
+      "complete": "/api/earthquakes/date/1730.json",
+      "04": "/api/earthquakes/date/1730-04.json"
+    },
+    "1732": {
+      "complete": "/api/earthquakes/date/1732.json",
+      "09": "/api/earthquakes/date/1732-09.json"
+    },
+    "1737": {
+      "12": "/api/earthquakes/date/1737-12.json",
+      "complete": "/api/earthquakes/date/1737.json",
+      "02": "/api/earthquakes/date/1737-02.json",
+      "09": "/api/earthquakes/date/1737-09.json"
+    },
+    "1741": {
+      "12": "/api/earthquakes/date/1741-12.json",
+      "complete": "/api/earthquakes/date/1741.json",
+      "06": "/api/earthquakes/date/1741-06.json"
+    },
+    "1744": {
+      "complete": "/api/earthquakes/date/1744.json",
+      "05": "/api/earthquakes/date/1744-05.json",
+      "06": "/api/earthquakes/date/1744-06.json",
+      "07": "/api/earthquakes/date/1744-07.json"
+    },
+    "1745": {
+      "complete": "/api/earthquakes/date/1745.json",
+      "01": "/api/earthquakes/date/1745-01.json"
+    },
+    "1747": {
+      "complete": "/api/earthquakes/date/1747.json",
+      "02": "/api/earthquakes/date/1747-02.json",
+      "08": "/api/earthquakes/date/1747-08.json"
+    },
+    "1751": {
+      "complete": "/api/earthquakes/date/1751.json",
+      "07": "/api/earthquakes/date/1751-07.json"
+    },
+    "1755": {
+      "11": "/api/earthquakes/date/1755-11.json",
+      "12": "/api/earthquakes/date/1755-12.json",
+      "complete": "/api/earthquakes/date/1755.json"
+    },
+    "1756": {
+      "11": "/api/earthquakes/date/1756-11.json",
+      "12": "/api/earthquakes/date/1756-12.json",
+      "complete": "/api/earthquakes/date/1756.json",
+      "01": "/api/earthquakes/date/1756-01.json"
+    },
+    "1757": {
+      "complete": "/api/earthquakes/date/1757.json",
+      "07": "/api/earthquakes/date/1757-07.json"
+    },
+    "1759": {
+      "complete": "/api/earthquakes/date/1759.json",
+      "02": "/api/earthquakes/date/1759-02.json"
+    },
+    "1760": {
+      "complete": "/api/earthquakes/date/1760.json",
+      "02": "/api/earthquakes/date/1760-02.json"
+    },
+    "1761": {
+      "11": "/api/earthquakes/date/1761-11.json",
+      "complete": "/api/earthquakes/date/1761.json",
+      "03": "/api/earthquakes/date/1761-03.json"
+    },
+    "1764": {
+      "complete": "/api/earthquakes/date/1764.json",
+      "09": "/api/earthquakes/date/1764-09.json"
+    },
+    "1766": {
+      "12": "/api/earthquakes/date/1766-12.json",
+      "complete": "/api/earthquakes/date/1766.json",
+      "01": "/api/earthquakes/date/1766-01.json",
+      "02": "/api/earthquakes/date/1766-02.json",
+      "06": "/api/earthquakes/date/1766-06.json",
+      "08": "/api/earthquakes/date/1766-08.json"
+    },
+    "1769": {
+      "10": "/api/earthquakes/date/1769-10.json",
+      "complete": "/api/earthquakes/date/1769.json"
+    },
+    "1777": {
+      "complete": "/api/earthquakes/date/1777.json",
+      "04": "/api/earthquakes/date/1777-04.json"
+    },
+    "1780": {
+      "11": "/api/earthquakes/date/1780-11.json",
+      "complete": "/api/earthquakes/date/1780.json"
+    },
+    "1783": {
+      "11": "/api/earthquakes/date/1783-11.json",
+      "complete": "/api/earthquakes/date/1783.json"
+    },
+    "1784": {
+      "complete": "/api/earthquakes/date/1784.json",
+      "01": "/api/earthquakes/date/1784-01.json"
+    },
+    "1785": {
+      "complete": "/api/earthquakes/date/1785.json",
+      "01": "/api/earthquakes/date/1785-01.json"
+    },
+    "1786": {
+      "11": "/api/earthquakes/date/1786-11.json",
+      "complete": "/api/earthquakes/date/1786.json"
+    },
+    "1787": {
+      "complete": "/api/earthquakes/date/1787.json",
+      "02": "/api/earthquakes/date/1787-02.json"
+    },
+    "1791": {
+      "12": "/api/earthquakes/date/1791-12.json",
+      "complete": "/api/earthquakes/date/1791.json",
+      "05": "/api/earthquakes/date/1791-05.json"
+    },
+    "1792": {
+      "10": "/api/earthquakes/date/1792-10.json",
+      "complete": "/api/earthquakes/date/1792.json",
+      "08": "/api/earthquakes/date/1792-08.json"
+    },
+    "1793": {
+      "complete": "/api/earthquakes/date/1793.json",
+      "01": "/api/earthquakes/date/1793-01.json",
+      "07": "/api/earthquakes/date/1793-07.json"
+    },
+    "1794": {
+      "complete": "/api/earthquakes/date/1794.json",
+      "03": "/api/earthquakes/date/1794-03.json"
+    },
+    "1800": {
+      "12": "/api/earthquakes/date/1800-12.json",
+      "complete": "/api/earthquakes/date/1800.json"
+    },
+    "1801": {
+      "complete": "/api/earthquakes/date/1801.json",
+      "03": "/api/earthquakes/date/1801-03.json"
+    },
+    "1803": {
+      "complete": "/api/earthquakes/date/1803.json",
+      "01": "/api/earthquakes/date/1803-01.json"
+    },
+    "1804": {
+      "complete": "/api/earthquakes/date/1804.json",
+      "05": "/api/earthquakes/date/1804-05.json",
+      "08": "/api/earthquakes/date/1804-08.json"
+    },
+    "1805": {
+      "12": "/api/earthquakes/date/1805-12.json",
+      "complete": "/api/earthquakes/date/1805.json",
+      "04": "/api/earthquakes/date/1805-04.json",
+      "06": "/api/earthquakes/date/1805-06.json",
+      "08": "/api/earthquakes/date/1805-08.json"
+    },
+    "1807": {
+      "complete": "/api/earthquakes/date/1807.json",
+      "02": "/api/earthquakes/date/1807-02.json"
+    },
+    "1808": {
+      "complete": "/api/earthquakes/date/1808.json",
+      "06": "/api/earthquakes/date/1808-06.json"
+    },
+    "1809": {
+      "complete": "/api/earthquakes/date/1809.json",
+      "01": "/api/earthquakes/date/1809-01.json"
+    },
+    "1810": {
+      "11": "/api/earthquakes/date/1810-11.json",
+      "complete": "/api/earthquakes/date/1810.json"
+    },
+    "1812": {
+      "complete": "/api/earthquakes/date/1812.json",
+      "02": "/api/earthquakes/date/1812-02.json",
+      "07": "/api/earthquakes/date/1812-07.json"
+    },
+    "1813": {
+      "12": "/api/earthquakes/date/1813-12.json",
+      "complete": "/api/earthquakes/date/1813.json"
+    },
+    "1814": {
+      "11": "/api/earthquakes/date/1814-11.json",
+      "complete": "/api/earthquakes/date/1814.json"
+    },
+    "1816": {
+      "complete": "/api/earthquakes/date/1816.json",
+      "09": "/api/earthquakes/date/1816-09.json"
+    },
+    "1817": {
+      "10": "/api/earthquakes/date/1817-10.json",
+      "complete": "/api/earthquakes/date/1817.json",
+      "05": "/api/earthquakes/date/1817-05.json",
+      "09": "/api/earthquakes/date/1817-09.json"
+    },
+    "1818": {
+      "10": "/api/earthquakes/date/1818-10.json",
+      "complete": "/api/earthquakes/date/1818.json"
+    },
+    "1819": {
+      "11": "/api/earthquakes/date/1819-11.json",
+      "complete": "/api/earthquakes/date/1819.json",
+      "08": "/api/earthquakes/date/1819-08.json"
+    },
+    "1821": {
+      "complete": "/api/earthquakes/date/1821.json",
+      "05": "/api/earthquakes/date/1821-05.json"
+    },
+    "1823": {
+      "complete": "/api/earthquakes/date/1823.json",
+      "03": "/api/earthquakes/date/1823-03.json",
+      "05": "/api/earthquakes/date/1823-05.json",
+      "06": "/api/earthquakes/date/1823-06.json",
+      "07": "/api/earthquakes/date/1823-07.json"
+    },
+    "1824": {
+      "complete": "/api/earthquakes/date/1824.json",
+      "07": "/api/earthquakes/date/1824-07.json"
+    },
+    "1827": {
+      "complete": "/api/earthquakes/date/1827.json",
+      "08": "/api/earthquakes/date/1827-08.json"
+    },
+    "1828": {
+      "complete": "/api/earthquakes/date/1828.json",
+      "07": "/api/earthquakes/date/1828-07.json"
+    },
+    "1829": {
+      "complete": "/api/earthquakes/date/1829.json",
+      "01": "/api/earthquakes/date/1829-01.json",
+      "08": "/api/earthquakes/date/1829-08.json"
+    },
+    "1830": {
+      "12": "/api/earthquakes/date/1830-12.json",
+      "complete": "/api/earthquakes/date/1830.json"
+    },
+    "1831": {
+      "complete": "/api/earthquakes/date/1831.json",
+      "07": "/api/earthquakes/date/1831-07.json"
+    },
+    "1836": {
+      "11": "/api/earthquakes/date/1836-11.json",
+      "complete": "/api/earthquakes/date/1836.json"
+    },
+    "1837": {
+      "complete": "/api/earthquakes/date/1837.json",
+      "01": "/api/earthquakes/date/1837-01.json",
+      "04": "/api/earthquakes/date/1837-04.json"
+    },
+    "1840": {
+      "complete": "/api/earthquakes/date/1840.json",
+      "08": "/api/earthquakes/date/1840-08.json",
+      "09": "/api/earthquakes/date/1840-09.json"
+    },
+    "1841": {
+      "12": "/api/earthquakes/date/1841-12.json",
+      "complete": "/api/earthquakes/date/1841.json",
+      "01": "/api/earthquakes/date/1841-01.json"
+    },
+    "1842": {
+      "11": "/api/earthquakes/date/1842-11.json",
+      "complete": "/api/earthquakes/date/1842.json"
+    },
+    "1843": {
+      "12": "/api/earthquakes/date/1843-12.json",
+      "complete": "/api/earthquakes/date/1843.json",
+      "03": "/api/earthquakes/date/1843-03.json"
+    },
+    "1845": {
+      "10": "/api/earthquakes/date/1845-10.json",
+      "complete": "/api/earthquakes/date/1845.json",
+      "01": "/api/earthquakes/date/1845-01.json"
+    },
+    "1846": {
+      "10": "/api/earthquakes/date/1846-10.json",
+      "11": "/api/earthquakes/date/1846-11.json",
+      "12": "/api/earthquakes/date/1846-12.json",
+      "complete": "/api/earthquakes/date/1846.json",
+      "05": "/api/earthquakes/date/1846-05.json",
+      "07": "/api/earthquakes/date/1846-07.json",
+      "08": "/api/earthquakes/date/1846-08.json",
+      "09": "/api/earthquakes/date/1846-09.json"
+    },
+    "1847": {
+      "complete": "/api/earthquakes/date/1847.json",
+      "01": "/api/earthquakes/date/1847-01.json",
+      "02": "/api/earthquakes/date/1847-02.json",
+      "04": "/api/earthquakes/date/1847-04.json",
+      "07": "/api/earthquakes/date/1847-07.json",
+      "08": "/api/earthquakes/date/1847-08.json",
+      "09": "/api/earthquakes/date/1847-09.json"
+    },
+    "1848": {
+      "11": "/api/earthquakes/date/1848-11.json",
+      "12": "/api/earthquakes/date/1848-12.json",
+      "complete": "/api/earthquakes/date/1848.json",
+      "01": "/api/earthquakes/date/1848-01.json",
+      "02": "/api/earthquakes/date/1848-02.json",
+      "05": "/api/earthquakes/date/1848-05.json",
+      "09": "/api/earthquakes/date/1848-09.json"
+    },
+    "1849": {
+      "10": "/api/earthquakes/date/1849-10.json",
+      "complete": "/api/earthquakes/date/1849.json",
+      "02": "/api/earthquakes/date/1849-02.json"
+    },
+    "1850": {
+      "complete": "/api/earthquakes/date/1850.json",
+      "07": "/api/earthquakes/date/1850-07.json"
+    },
+    "1851": {
+      "10": "/api/earthquakes/date/1851-10.json",
+      "12": "/api/earthquakes/date/1851-12.json",
+      "complete": "/api/earthquakes/date/1851.json",
+      "01": "/api/earthquakes/date/1851-01.json"
+    },
+    "1852": {
+      "11": "/api/earthquakes/date/1852-11.json",
+      "12": "/api/earthquakes/date/1852-12.json",
+      "complete": "/api/earthquakes/date/1852.json",
+      "01": "/api/earthquakes/date/1852-01.json",
+      "02": "/api/earthquakes/date/1852-02.json",
+      "06": "/api/earthquakes/date/1852-06.json",
+      "08": "/api/earthquakes/date/1852-08.json"
+    },
+    "1853": {
+      "10": "/api/earthquakes/date/1853-10.json",
+      "11": "/api/earthquakes/date/1853-11.json",
+      "complete": "/api/earthquakes/date/1853.json",
+      "03": "/api/earthquakes/date/1853-03.json",
+      "05": "/api/earthquakes/date/1853-05.json",
+      "06": "/api/earthquakes/date/1853-06.json",
+      "07": "/api/earthquakes/date/1853-07.json",
+      "08": "/api/earthquakes/date/1853-08.json",
+      "09": "/api/earthquakes/date/1853-09.json"
+    },
+    "1854": {
+      "10": "/api/earthquakes/date/1854-10.json",
+      "12": "/api/earthquakes/date/1854-12.json",
+      "complete": "/api/earthquakes/date/1854.json",
+      "01": "/api/earthquakes/date/1854-01.json",
+      "02": "/api/earthquakes/date/1854-02.json"
+    },
+    "1855": {
+      "12": "/api/earthquakes/date/1855-12.json",
+      "complete": "/api/earthquakes/date/1855.json",
+      "01": "/api/earthquakes/date/1855-01.json",
+      "02": "/api/earthquakes/date/1855-02.json",
+      "05": "/api/earthquakes/date/1855-05.json"
+    },
+    "1856": {
+      "12": "/api/earthquakes/date/1856-12.json",
+      "complete": "/api/earthquakes/date/1856.json",
+      "03": "/api/earthquakes/date/1856-03.json",
+      "05": "/api/earthquakes/date/1856-05.json",
+      "06": "/api/earthquakes/date/1856-06.json"
+    },
+    "1857": {
+      "10": "/api/earthquakes/date/1857-10.json",
+      "12": "/api/earthquakes/date/1857-12.json",
+      "complete": "/api/earthquakes/date/1857.json",
+      "01": "/api/earthquakes/date/1857-01.json",
+      "06": "/api/earthquakes/date/1857-06.json"
+    },
+    "1858": {
+      "complete": "/api/earthquakes/date/1858.json",
+      "05": "/api/earthquakes/date/1858-05.json",
+      "06": "/api/earthquakes/date/1858-06.json",
+      "09": "/api/earthquakes/date/1858-09.json"
+    },
+    "1859": {
+      "complete": "/api/earthquakes/date/1859.json",
+      "04": "/api/earthquakes/date/1859-04.json"
+    },
+    "1860": {
+      "10": "/api/earthquakes/date/1860-10.json",
+      "11": "/api/earthquakes/date/1860-11.json",
+      "complete": "/api/earthquakes/date/1860.json",
+      "03": "/api/earthquakes/date/1860-03.json",
+      "05": "/api/earthquakes/date/1860-05.json"
+    },
+    "1861": {
+      "complete": "/api/earthquakes/date/1861.json",
+      "03": "/api/earthquakes/date/1861-03.json",
+      "07": "/api/earthquakes/date/1861-07.json"
+    },
+    "1862": {
+      "complete": "/api/earthquakes/date/1862.json",
+      "02": "/api/earthquakes/date/1862-02.json"
+    },
+    "1864": {
+      "10": "/api/earthquakes/date/1864-10.json",
+      "complete": "/api/earthquakes/date/1864.json",
+      "04": "/api/earthquakes/date/1864-04.json",
+      "06": "/api/earthquakes/date/1864-06.json"
+    },
+    "1865": {
+      "10": "/api/earthquakes/date/1865-10.json",
+      "complete": "/api/earthquakes/date/1865.json",
+      "08": "/api/earthquakes/date/1865-08.json"
+    },
+    "1866": {
+      "11": "/api/earthquakes/date/1866-11.json",
+      "complete": "/api/earthquakes/date/1866.json"
+    },
+    "1867": {
+      "12": "/api/earthquakes/date/1867-12.json",
+      "complete": "/api/earthquakes/date/1867.json"
+    },
+    "1868": {
+      "complete": "/api/earthquakes/date/1868.json",
+      "03": "/api/earthquakes/date/1868-03.json",
+      "05": "/api/earthquakes/date/1868-05.json"
+    },
+    "1869": {
+      "10": "/api/earthquakes/date/1869-10.json",
+      "complete": "/api/earthquakes/date/1869.json",
+      "04": "/api/earthquakes/date/1869-04.json",
+      "05": "/api/earthquakes/date/1869-05.json"
+    },
+    "1870": {
+      "10": "/api/earthquakes/date/1870-10.json",
+      "12": "/api/earthquakes/date/1870-12.json",
+      "complete": "/api/earthquakes/date/1870.json",
+      "02": "/api/earthquakes/date/1870-02.json",
+      "03": "/api/earthquakes/date/1870-03.json"
+    },
+    "1871": {
+      "complete": "/api/earthquakes/date/1871.json",
+      "01": "/api/earthquakes/date/1871-01.json",
+      "02": "/api/earthquakes/date/1871-02.json",
+      "03": "/api/earthquakes/date/1871-03.json",
+      "05": "/api/earthquakes/date/1871-05.json"
+    },
+    "1872": {
+      "10": "/api/earthquakes/date/1872-10.json",
+      "11": "/api/earthquakes/date/1872-11.json",
+      "12": "/api/earthquakes/date/1872-12.json",
+      "complete": "/api/earthquakes/date/1872.json",
+      "01": "/api/earthquakes/date/1872-01.json",
+      "02": "/api/earthquakes/date/1872-02.json",
+      "03": "/api/earthquakes/date/1872-03.json",
+      "07": "/api/earthquakes/date/1872-07.json"
+    },
+    "1873": {
+      "10": "/api/earthquakes/date/1873-10.json",
+      "11": "/api/earthquakes/date/1873-11.json",
+      "complete": "/api/earthquakes/date/1873.json",
+      "01": "/api/earthquakes/date/1873-01.json",
+      "02": "/api/earthquakes/date/1873-02.json",
+      "03": "/api/earthquakes/date/1873-03.json",
+      "04": "/api/earthquakes/date/1873-04.json",
+      "07": "/api/earthquakes/date/1873-07.json",
+      "09": "/api/earthquakes/date/1873-09.json"
+    },
+    "1874": {
+      "11": "/api/earthquakes/date/1874-11.json",
+      "12": "/api/earthquakes/date/1874-12.json",
+      "complete": "/api/earthquakes/date/1874.json",
+      "01": "/api/earthquakes/date/1874-01.json",
+      "02": "/api/earthquakes/date/1874-02.json",
+      "03": "/api/earthquakes/date/1874-03.json",
+      "07": "/api/earthquakes/date/1874-07.json",
+      "08": "/api/earthquakes/date/1874-08.json"
+    },
+    "1875": {
+      "10": "/api/earthquakes/date/1875-10.json",
+      "12": "/api/earthquakes/date/1875-12.json",
+      "complete": "/api/earthquakes/date/1875.json",
+      "02": "/api/earthquakes/date/1875-02.json",
+      "04": "/api/earthquakes/date/1875-04.json",
+      "05": "/api/earthquakes/date/1875-05.json",
+      "06": "/api/earthquakes/date/1875-06.json",
+      "07": "/api/earthquakes/date/1875-07.json",
+      "09": "/api/earthquakes/date/1875-09.json"
+    },
+    "1876": {
+      "11": "/api/earthquakes/date/1876-11.json",
+      "complete": "/api/earthquakes/date/1876.json",
+      "01": "/api/earthquakes/date/1876-01.json",
+      "09": "/api/earthquakes/date/1876-09.json"
+    },
+    "1877": {
+      "11": "/api/earthquakes/date/1877-11.json",
+      "12": "/api/earthquakes/date/1877-12.json",
+      "complete": "/api/earthquakes/date/1877.json",
+      "02": "/api/earthquakes/date/1877-02.json",
+      "04": "/api/earthquakes/date/1877-04.json",
+      "05": "/api/earthquakes/date/1877-05.json",
+      "07": "/api/earthquakes/date/1877-07.json",
+      "08": "/api/earthquakes/date/1877-08.json",
+      "09": "/api/earthquakes/date/1877-09.json"
+    },
+    "1878": {
+      "10": "/api/earthquakes/date/1878-10.json",
+      "12": "/api/earthquakes/date/1878-12.json",
+      "complete": "/api/earthquakes/date/1878.json",
+      "02": "/api/earthquakes/date/1878-02.json",
+      "03": "/api/earthquakes/date/1878-03.json"
+    },
+    "1879": {
+      "10": "/api/earthquakes/date/1879-10.json",
+      "11": "/api/earthquakes/date/1879-11.json",
+      "12": "/api/earthquakes/date/1879-12.json",
+      "complete": "/api/earthquakes/date/1879.json",
+      "04": "/api/earthquakes/date/1879-04.json",
+      "06": "/api/earthquakes/date/1879-06.json",
+      "08": "/api/earthquakes/date/1879-08.json"
+    },
+    "1880": {
+      "10": "/api/earthquakes/date/1880-10.json",
+      "11": "/api/earthquakes/date/1880-11.json",
+      "12": "/api/earthquakes/date/1880-12.json",
+      "complete": "/api/earthquakes/date/1880.json",
+      "02": "/api/earthquakes/date/1880-02.json",
+      "03": "/api/earthquakes/date/1880-03.json",
+      "04": "/api/earthquakes/date/1880-04.json",
+      "05": "/api/earthquakes/date/1880-05.json",
+      "07": "/api/earthquakes/date/1880-07.json",
+      "08": "/api/earthquakes/date/1880-08.json",
+      "09": "/api/earthquakes/date/1880-09.json"
+    },
+    "1881": {
+      "10": "/api/earthquakes/date/1881-10.json",
+      "12": "/api/earthquakes/date/1881-12.json",
+      "complete": "/api/earthquakes/date/1881.json",
+      "01": "/api/earthquakes/date/1881-01.json",
+      "02": "/api/earthquakes/date/1881-02.json",
+      "03": "/api/earthquakes/date/1881-03.json",
+      "04": "/api/earthquakes/date/1881-04.json",
+      "05": "/api/earthquakes/date/1881-05.json",
+      "06": "/api/earthquakes/date/1881-06.json",
+      "07": "/api/earthquakes/date/1881-07.json",
+      "08": "/api/earthquakes/date/1881-08.json",
+      "09": "/api/earthquakes/date/1881-09.json"
+    },
+    "1882": {
+      "10": "/api/earthquakes/date/1882-10.json",
+      "11": "/api/earthquakes/date/1882-11.json",
+      "12": "/api/earthquakes/date/1882-12.json",
+      "complete": "/api/earthquakes/date/1882.json",
+      "02": "/api/earthquakes/date/1882-02.json",
+      "04": "/api/earthquakes/date/1882-04.json",
+      "05": "/api/earthquakes/date/1882-05.json",
+      "08": "/api/earthquakes/date/1882-08.json",
+      "09": "/api/earthquakes/date/1882-09.json"
+    },
+    "1883": {
+      "10": "/api/earthquakes/date/1883-10.json",
+      "11": "/api/earthquakes/date/1883-11.json",
+      "12": "/api/earthquakes/date/1883-12.json",
+      "complete": "/api/earthquakes/date/1883.json",
+      "01": "/api/earthquakes/date/1883-01.json",
+      "02": "/api/earthquakes/date/1883-02.json",
+      "03": "/api/earthquakes/date/1883-03.json",
+      "04": "/api/earthquakes/date/1883-04.json",
+      "09": "/api/earthquakes/date/1883-09.json"
+    },
+    "1884": {
+      "10": "/api/earthquakes/date/1884-10.json",
+      "11": "/api/earthquakes/date/1884-11.json",
+      "12": "/api/earthquakes/date/1884-12.json",
+      "complete": "/api/earthquakes/date/1884.json",
+      "01": "/api/earthquakes/date/1884-01.json",
+      "02": "/api/earthquakes/date/1884-02.json",
+      "03": "/api/earthquakes/date/1884-03.json",
+      "05": "/api/earthquakes/date/1884-05.json",
+      "08": "/api/earthquakes/date/1884-08.json",
+      "09": "/api/earthquakes/date/1884-09.json"
+    },
+    "1885": {
+      "10": "/api/earthquakes/date/1885-10.json",
+      "12": "/api/earthquakes/date/1885-12.json",
+      "complete": "/api/earthquakes/date/1885.json",
+      "01": "/api/earthquakes/date/1885-01.json",
+      "02": "/api/earthquakes/date/1885-02.json",
+      "03": "/api/earthquakes/date/1885-03.json",
+      "04": "/api/earthquakes/date/1885-04.json",
+      "05": "/api/earthquakes/date/1885-05.json",
+      "09": "/api/earthquakes/date/1885-09.json"
+    },
+    "1886": {
+      "10": "/api/earthquakes/date/1886-10.json",
+      "complete": "/api/earthquakes/date/1886.json",
+      "02": "/api/earthquakes/date/1886-02.json",
+      "03": "/api/earthquakes/date/1886-03.json",
+      "05": "/api/earthquakes/date/1886-05.json",
+      "08": "/api/earthquakes/date/1886-08.json",
+      "09": "/api/earthquakes/date/1886-09.json"
+    },
+    "1887": {
+      "complete": "/api/earthquakes/date/1887.json",
+      "01": "/api/earthquakes/date/1887-01.json",
+      "02": "/api/earthquakes/date/1887-02.json",
+      "03": "/api/earthquakes/date/1887-03.json",
+      "05": "/api/earthquakes/date/1887-05.json",
+      "06": "/api/earthquakes/date/1887-06.json"
+    },
+    "1888": {
+      "12": "/api/earthquakes/date/1888-12.json",
+      "complete": "/api/earthquakes/date/1888.json",
+      "01": "/api/earthquakes/date/1888-01.json",
+      "02": "/api/earthquakes/date/1888-02.json",
+      "03": "/api/earthquakes/date/1888-03.json",
+      "04": "/api/earthquakes/date/1888-04.json",
+      "07": "/api/earthquakes/date/1888-07.json"
+    },
+    "1889": {
+      "complete": "/api/earthquakes/date/1889.json",
+      "03": "/api/earthquakes/date/1889-03.json",
+      "06": "/api/earthquakes/date/1889-06.json"
+    },
+    "1890": {
+      "10": "/api/earthquakes/date/1890-10.json",
+      "complete": "/api/earthquakes/date/1890.json",
+      "05": "/api/earthquakes/date/1890-05.json",
+      "07": "/api/earthquakes/date/1890-07.json",
+      "09": "/api/earthquakes/date/1890-09.json"
+    },
+    "1891": {
+      "complete": "/api/earthquakes/date/1891.json",
+      "05": "/api/earthquakes/date/1891-05.json",
+      "09": "/api/earthquakes/date/1891-09.json"
+    },
+    "1892": {
+      "12": "/api/earthquakes/date/1892-12.json",
+      "complete": "/api/earthquakes/date/1892.json",
+      "02": "/api/earthquakes/date/1892-02.json",
+      "04": "/api/earthquakes/date/1892-04.json",
+      "07": "/api/earthquakes/date/1892-07.json"
+    },
+    "1893": {
+      "11": "/api/earthquakes/date/1893-11.json",
+      "complete": "/api/earthquakes/date/1893.json",
+      "03": "/api/earthquakes/date/1893-03.json"
+    },
+    "1894": {
+      "11": "/api/earthquakes/date/1894-11.json",
+      "complete": "/api/earthquakes/date/1894.json",
+      "01": "/api/earthquakes/date/1894-01.json",
+      "02": "/api/earthquakes/date/1894-02.json",
+      "04": "/api/earthquakes/date/1894-04.json",
+      "06": "/api/earthquakes/date/1894-06.json",
+      "07": "/api/earthquakes/date/1894-07.json",
+      "08": "/api/earthquakes/date/1894-08.json"
+    },
+    "1895": {
+      "10": "/api/earthquakes/date/1895-10.json",
+      "12": "/api/earthquakes/date/1895-12.json",
+      "complete": "/api/earthquakes/date/1895.json",
+      "02": "/api/earthquakes/date/1895-02.json",
+      "04": "/api/earthquakes/date/1895-04.json",
+      "05": "/api/earthquakes/date/1895-05.json",
+      "09": "/api/earthquakes/date/1895-09.json"
+    },
+    "1896": {
+      "complete": "/api/earthquakes/date/1896.json",
+      "02": "/api/earthquakes/date/1896-02.json",
+      "03": "/api/earthquakes/date/1896-03.json",
+      "04": "/api/earthquakes/date/1896-04.json",
+      "05": "/api/earthquakes/date/1896-05.json"
+    },
+    "1897": {
+      "10": "/api/earthquakes/date/1897-10.json",
+      "11": "/api/earthquakes/date/1897-11.json",
+      "12": "/api/earthquakes/date/1897-12.json",
+      "complete": "/api/earthquakes/date/1897.json",
+      "01": "/api/earthquakes/date/1897-01.json",
+      "02": "/api/earthquakes/date/1897-02.json",
+      "03": "/api/earthquakes/date/1897-03.json",
+      "05": "/api/earthquakes/date/1897-05.json",
+      "07": "/api/earthquakes/date/1897-07.json",
+      "09": "/api/earthquakes/date/1897-09.json"
+    },
+    "1898": {
+      "complete": "/api/earthquakes/date/1898.json",
+      "01": "/api/earthquakes/date/1898-01.json",
+      "09": "/api/earthquakes/date/1898-09.json"
+    },
+    "1899": {
+      "12": "/api/earthquakes/date/1899-12.json",
+      "complete": "/api/earthquakes/date/1899.json",
+      "04": "/api/earthquakes/date/1899-04.json",
+      "05": "/api/earthquakes/date/1899-05.json",
+      "09": "/api/earthquakes/date/1899-09.json"
+    },
+    "1900": {
+      "10": "/api/earthquakes/date/1900-10.json",
+      "complete": "/api/earthquakes/date/1900.json"
+    },
+    "1901": {
+      "complete": "/api/earthquakes/date/1901.json",
+      "07": "/api/earthquakes/date/1901-07.json"
+    },
+    "1902": {
+      "10": "/api/earthquakes/date/1902-10.json",
+      "complete": "/api/earthquakes/date/1902.json",
+      "02": "/api/earthquakes/date/1902-02.json",
+      "07": "/api/earthquakes/date/1902-07.json"
+    },
+    "1903": {
+      "12": "/api/earthquakes/date/1903-12.json",
+      "complete": "/api/earthquakes/date/1903.json",
+      "01": "/api/earthquakes/date/1903-01.json",
+      "03": "/api/earthquakes/date/1903-03.json",
+      "04": "/api/earthquakes/date/1903-04.json",
+      "07": "/api/earthquakes/date/1903-07.json"
+    },
+    "1904": {
+      "complete": "/api/earthquakes/date/1904.json",
+      "03": "/api/earthquakes/date/1904-03.json",
+      "08": "/api/earthquakes/date/1904-08.json"
+    },
+    "1905": {
+      "10": "/api/earthquakes/date/1905-10.json",
+      "11": "/api/earthquakes/date/1905-11.json",
+      "complete": "/api/earthquakes/date/1905.json",
+      "03": "/api/earthquakes/date/1905-03.json",
+      "04": "/api/earthquakes/date/1905-04.json",
+      "07": "/api/earthquakes/date/1905-07.json",
+      "08": "/api/earthquakes/date/1905-08.json"
+    },
+    "1906": {
+      "10": "/api/earthquakes/date/1906-10.json",
+      "11": "/api/earthquakes/date/1906-11.json",
+      "12": "/api/earthquakes/date/1906-12.json",
+      "complete": "/api/earthquakes/date/1906.json",
+      "04": "/api/earthquakes/date/1906-04.json",
+      "05": "/api/earthquakes/date/1906-05.json",
+      "06": "/api/earthquakes/date/1906-06.json"
+    },
+    "1907": {
+      "10": "/api/earthquakes/date/1907-10.json",
+      "11": "/api/earthquakes/date/1907-11.json",
+      "complete": "/api/earthquakes/date/1907.json",
+      "01": "/api/earthquakes/date/1907-01.json",
+      "04": "/api/earthquakes/date/1907-04.json",
+      "08": "/api/earthquakes/date/1907-08.json",
+      "09": "/api/earthquakes/date/1907-09.json"
+    },
+    "1908": {
+      "12": "/api/earthquakes/date/1908-12.json",
+      "complete": "/api/earthquakes/date/1908.json",
+      "02": "/api/earthquakes/date/1908-02.json",
+      "03": "/api/earthquakes/date/1908-03.json",
+      "05": "/api/earthquakes/date/1908-05.json",
+      "06": "/api/earthquakes/date/1908-06.json",
+      "07": "/api/earthquakes/date/1908-07.json",
+      "08": "/api/earthquakes/date/1908-08.json"
+    },
+    "1909": {
+      "10": "/api/earthquakes/date/1909-10.json",
+      "12": "/api/earthquakes/date/1909-12.json",
+      "complete": "/api/earthquakes/date/1909.json",
+      "01": "/api/earthquakes/date/1909-01.json",
+      "02": "/api/earthquakes/date/1909-02.json",
+      "04": "/api/earthquakes/date/1909-04.json",
+      "05": "/api/earthquakes/date/1909-05.json",
+      "06": "/api/earthquakes/date/1909-06.json",
+      "07": "/api/earthquakes/date/1909-07.json",
+      "08": "/api/earthquakes/date/1909-08.json",
+      "09": "/api/earthquakes/date/1909-09.json"
+    },
+    "1910": {
+      "10": "/api/earthquakes/date/1910-10.json",
+      "complete": "/api/earthquakes/date/1910.json",
+      "01": "/api/earthquakes/date/1910-01.json",
+      "02": "/api/earthquakes/date/1910-02.json",
+      "03": "/api/earthquakes/date/1910-03.json",
+      "05": "/api/earthquakes/date/1910-05.json",
+      "07": "/api/earthquakes/date/1910-07.json",
+      "08": "/api/earthquakes/date/1910-08.json"
+    },
+    "1911": {
+      "complete": "/api/earthquakes/date/1911.json",
+      "01": "/api/earthquakes/date/1911-01.json",
+      "02": "/api/earthquakes/date/1911-02.json",
+      "06": "/api/earthquakes/date/1911-06.json",
+      "09": "/api/earthquakes/date/1911-09.json"
+    },
+    "1912": {
+      "10": "/api/earthquakes/date/1912-10.json",
+      "11": "/api/earthquakes/date/1912-11.json",
+      "12": "/api/earthquakes/date/1912-12.json",
+      "complete": "/api/earthquakes/date/1912.json",
+      "01": "/api/earthquakes/date/1912-01.json",
+      "03": "/api/earthquakes/date/1912-03.json",
+      "06": "/api/earthquakes/date/1912-06.json",
+      "07": "/api/earthquakes/date/1912-07.json"
+    },
+    "1913": {
+      "10": "/api/earthquakes/date/1913-10.json",
+      "11": "/api/earthquakes/date/1913-11.json",
+      "12": "/api/earthquakes/date/1913-12.json",
+      "complete": "/api/earthquakes/date/1913.json",
+      "03": "/api/earthquakes/date/1913-03.json",
+      "04": "/api/earthquakes/date/1913-04.json",
+      "06": "/api/earthquakes/date/1913-06.json",
+      "07": "/api/earthquakes/date/1913-07.json",
+      "08": "/api/earthquakes/date/1913-08.json"
+    },
+    "1914": {
+      "complete": "/api/earthquakes/date/1914.json",
+      "01": "/api/earthquakes/date/1914-01.json",
+      "02": "/api/earthquakes/date/1914-02.json",
+      "04": "/api/earthquakes/date/1914-04.json",
+      "05": "/api/earthquakes/date/1914-05.json",
+      "07": "/api/earthquakes/date/1914-07.json",
+      "08": "/api/earthquakes/date/1914-08.json",
+      "09": "/api/earthquakes/date/1914-09.json"
+    },
+    "1915": {
+      "10": "/api/earthquakes/date/1915-10.json",
+      "11": "/api/earthquakes/date/1915-11.json",
+      "12": "/api/earthquakes/date/1915-12.json",
+      "complete": "/api/earthquakes/date/1915.json",
+      "01": "/api/earthquakes/date/1915-01.json",
+      "02": "/api/earthquakes/date/1915-02.json",
+      "05": "/api/earthquakes/date/1915-05.json",
+      "07": "/api/earthquakes/date/1915-07.json",
+      "08": "/api/earthquakes/date/1915-08.json"
+    },
+    "1916": {
+      "10": "/api/earthquakes/date/1916-10.json",
+      "11": "/api/earthquakes/date/1916-11.json",
+      "12": "/api/earthquakes/date/1916-12.json",
+      "complete": "/api/earthquakes/date/1916.json",
+      "01": "/api/earthquakes/date/1916-01.json",
+      "02": "/api/earthquakes/date/1916-02.json",
+      "04": "/api/earthquakes/date/1916-04.json",
+      "05": "/api/earthquakes/date/1916-05.json",
+      "06": "/api/earthquakes/date/1916-06.json",
+      "07": "/api/earthquakes/date/1916-07.json",
+      "08": "/api/earthquakes/date/1916-08.json",
+      "09": "/api/earthquakes/date/1916-09.json"
+    },
+    "1917": {
+      "10": "/api/earthquakes/date/1917-10.json",
+      "11": "/api/earthquakes/date/1917-11.json",
+      "12": "/api/earthquakes/date/1917-12.json",
+      "complete": "/api/earthquakes/date/1917.json",
+      "01": "/api/earthquakes/date/1917-01.json",
+      "02": "/api/earthquakes/date/1917-02.json",
+      "03": "/api/earthquakes/date/1917-03.json",
+      "04": "/api/earthquakes/date/1917-04.json",
+      "05": "/api/earthquakes/date/1917-05.json",
+      "06": "/api/earthquakes/date/1917-06.json",
+      "07": "/api/earthquakes/date/1917-07.json",
+      "09": "/api/earthquakes/date/1917-09.json"
+    },
+    "1918": {
+      "11": "/api/earthquakes/date/1918-11.json",
+      "12": "/api/earthquakes/date/1918-12.json",
+      "complete": "/api/earthquakes/date/1918.json",
+      "01": "/api/earthquakes/date/1918-01.json",
+      "02": "/api/earthquakes/date/1918-02.json",
+      "03": "/api/earthquakes/date/1918-03.json",
+      "06": "/api/earthquakes/date/1918-06.json",
+      "07": "/api/earthquakes/date/1918-07.json",
+      "08": "/api/earthquakes/date/1918-08.json"
+    },
+    "1919": {
+      "10": "/api/earthquakes/date/1919-10.json",
+      "complete": "/api/earthquakes/date/1919.json",
+      "01": "/api/earthquakes/date/1919-01.json",
+      "05": "/api/earthquakes/date/1919-05.json",
+      "07": "/api/earthquakes/date/1919-07.json",
+      "08": "/api/earthquakes/date/1919-08.json",
+      "09": "/api/earthquakes/date/1919-09.json"
+    },
+    "1920": {
+      "11": "/api/earthquakes/date/1920-11.json",
+      "12": "/api/earthquakes/date/1920-12.json",
+      "complete": "/api/earthquakes/date/1920.json",
+      "01": "/api/earthquakes/date/1920-01.json",
+      "02": "/api/earthquakes/date/1920-02.json",
+      "03": "/api/earthquakes/date/1920-03.json",
+      "04": "/api/earthquakes/date/1920-04.json",
+      "05": "/api/earthquakes/date/1920-05.json",
+      "06": "/api/earthquakes/date/1920-06.json",
+      "07": "/api/earthquakes/date/1920-07.json",
+      "09": "/api/earthquakes/date/1920-09.json"
+    },
+    "1921": {
+      "10": "/api/earthquakes/date/1921-10.json",
+      "complete": "/api/earthquakes/date/1921.json",
+      "01": "/api/earthquakes/date/1921-01.json",
+      "02": "/api/earthquakes/date/1921-02.json",
+      "04": "/api/earthquakes/date/1921-04.json",
+      "05": "/api/earthquakes/date/1921-05.json",
+      "07": "/api/earthquakes/date/1921-07.json",
+      "08": "/api/earthquakes/date/1921-08.json",
+      "09": "/api/earthquakes/date/1921-09.json"
+    },
+    "1922": {
+      "12": "/api/earthquakes/date/1922-12.json",
+      "complete": "/api/earthquakes/date/1922.json",
+      "01": "/api/earthquakes/date/1922-01.json",
+      "03": "/api/earthquakes/date/1922-03.json",
+      "05": "/api/earthquakes/date/1922-05.json",
+      "07": "/api/earthquakes/date/1922-07.json",
+      "09": "/api/earthquakes/date/1922-09.json"
+    },
+    "1923": {
+      "10": "/api/earthquakes/date/1923-10.json",
+      "11": "/api/earthquakes/date/1923-11.json",
+      "complete": "/api/earthquakes/date/1923.json",
+      "01": "/api/earthquakes/date/1923-01.json",
+      "02": "/api/earthquakes/date/1923-02.json",
+      "03": "/api/earthquakes/date/1923-03.json",
+      "04": "/api/earthquakes/date/1923-04.json",
+      "05": "/api/earthquakes/date/1923-05.json",
+      "06": "/api/earthquakes/date/1923-06.json",
+      "09": "/api/earthquakes/date/1923-09.json"
+    },
+    "1924": {
+      "10": "/api/earthquakes/date/1924-10.json",
+      "11": "/api/earthquakes/date/1924-11.json",
+      "complete": "/api/earthquakes/date/1924.json",
+      "02": "/api/earthquakes/date/1924-02.json",
+      "03": "/api/earthquakes/date/1924-03.json",
+      "07": "/api/earthquakes/date/1924-07.json",
+      "09": "/api/earthquakes/date/1924-09.json"
+    },
+    "1925": {
+      "10": "/api/earthquakes/date/1925-10.json",
+      "11": "/api/earthquakes/date/1925-11.json",
+      "12": "/api/earthquakes/date/1925-12.json",
+      "complete": "/api/earthquakes/date/1925.json",
+      "01": "/api/earthquakes/date/1925-01.json",
+      "03": "/api/earthquakes/date/1925-03.json",
+      "04": "/api/earthquakes/date/1925-04.json",
+      "05": "/api/earthquakes/date/1925-05.json",
+      "06": "/api/earthquakes/date/1925-06.json",
+      "07": "/api/earthquakes/date/1925-07.json",
+      "08": "/api/earthquakes/date/1925-08.json"
+    },
+    "1926": {
+      "10": "/api/earthquakes/date/1926-10.json",
+      "11": "/api/earthquakes/date/1926-11.json",
+      "12": "/api/earthquakes/date/1926-12.json",
+      "complete": "/api/earthquakes/date/1926.json",
+      "01": "/api/earthquakes/date/1926-01.json",
+      "02": "/api/earthquakes/date/1926-02.json",
+      "03": "/api/earthquakes/date/1926-03.json",
+      "05": "/api/earthquakes/date/1926-05.json",
+      "06": "/api/earthquakes/date/1926-06.json",
+      "07": "/api/earthquakes/date/1926-07.json",
+      "08": "/api/earthquakes/date/1926-08.json",
+      "09": "/api/earthquakes/date/1926-09.json"
+    },
+    "1927": {
+      "10": "/api/earthquakes/date/1927-10.json",
+      "11": "/api/earthquakes/date/1927-11.json",
+      "12": "/api/earthquakes/date/1927-12.json",
+      "complete": "/api/earthquakes/date/1927.json",
+      "01": "/api/earthquakes/date/1927-01.json",
+      "02": "/api/earthquakes/date/1927-02.json",
+      "03": "/api/earthquakes/date/1927-03.json",
+      "04": "/api/earthquakes/date/1927-04.json",
+      "05": "/api/earthquakes/date/1927-05.json",
+      "06": "/api/earthquakes/date/1927-06.json",
+      "07": "/api/earthquakes/date/1927-07.json",
+      "08": "/api/earthquakes/date/1927-08.json"
+    },
+    "1928": {
+      "10": "/api/earthquakes/date/1928-10.json",
+      "11": "/api/earthquakes/date/1928-11.json",
+      "12": "/api/earthquakes/date/1928-12.json",
+      "complete": "/api/earthquakes/date/1928.json",
+      "01": "/api/earthquakes/date/1928-01.json",
+      "02": "/api/earthquakes/date/1928-02.json",
+      "03": "/api/earthquakes/date/1928-03.json",
+      "04": "/api/earthquakes/date/1928-04.json",
+      "05": "/api/earthquakes/date/1928-05.json",
+      "06": "/api/earthquakes/date/1928-06.json",
+      "07": "/api/earthquakes/date/1928-07.json",
+      "08": "/api/earthquakes/date/1928-08.json",
+      "09": "/api/earthquakes/date/1928-09.json"
+    },
+    "1929": {
+      "10": "/api/earthquakes/date/1929-10.json",
+      "11": "/api/earthquakes/date/1929-11.json",
+      "12": "/api/earthquakes/date/1929-12.json",
+      "complete": "/api/earthquakes/date/1929.json",
+      "01": "/api/earthquakes/date/1929-01.json",
+      "02": "/api/earthquakes/date/1929-02.json",
+      "03": "/api/earthquakes/date/1929-03.json",
+      "04": "/api/earthquakes/date/1929-04.json",
+      "05": "/api/earthquakes/date/1929-05.json",
+      "06": "/api/earthquakes/date/1929-06.json",
+      "08": "/api/earthquakes/date/1929-08.json",
+      "09": "/api/earthquakes/date/1929-09.json"
+    },
+    "1930": {
+      "10": "/api/earthquakes/date/1930-10.json",
+      "11": "/api/earthquakes/date/1930-11.json",
+      "12": "/api/earthquakes/date/1930-12.json",
+      "complete": "/api/earthquakes/date/1930.json",
+      "01": "/api/earthquakes/date/1930-01.json",
+      "02": "/api/earthquakes/date/1930-02.json",
+      "03": "/api/earthquakes/date/1930-03.json",
+      "04": "/api/earthquakes/date/1930-04.json",
+      "05": "/api/earthquakes/date/1930-05.json",
+      "06": "/api/earthquakes/date/1930-06.json",
+      "07": "/api/earthquakes/date/1930-07.json",
+      "08": "/api/earthquakes/date/1930-08.json",
+      "09": "/api/earthquakes/date/1930-09.json"
+    },
+    "1931": {
+      "11": "/api/earthquakes/date/1931-11.json",
+      "12": "/api/earthquakes/date/1931-12.json",
+      "complete": "/api/earthquakes/date/1931.json",
+      "01": "/api/earthquakes/date/1931-01.json",
+      "03": "/api/earthquakes/date/1931-03.json",
+      "04": "/api/earthquakes/date/1931-04.json",
+      "05": "/api/earthquakes/date/1931-05.json",
+      "06": "/api/earthquakes/date/1931-06.json",
+      "07": "/api/earthquakes/date/1931-07.json",
+      "08": "/api/earthquakes/date/1931-08.json",
+      "09": "/api/earthquakes/date/1931-09.json"
+    },
+    "1932": {
+      "10": "/api/earthquakes/date/1932-10.json",
+      "11": "/api/earthquakes/date/1932-11.json",
+      "12": "/api/earthquakes/date/1932-12.json",
+      "complete": "/api/earthquakes/date/1932.json",
+      "01": "/api/earthquakes/date/1932-01.json",
+      "03": "/api/earthquakes/date/1932-03.json",
+      "06": "/api/earthquakes/date/1932-06.json",
+      "07": "/api/earthquakes/date/1932-07.json",
+      "08": "/api/earthquakes/date/1932-08.json"
+    },
+    "1933": {
+      "10": "/api/earthquakes/date/1933-10.json",
+      "11": "/api/earthquakes/date/1933-11.json",
+      "12": "/api/earthquakes/date/1933-12.json",
+      "complete": "/api/earthquakes/date/1933.json",
+      "01": "/api/earthquakes/date/1933-01.json",
+      "02": "/api/earthquakes/date/1933-02.json",
+      "03": "/api/earthquakes/date/1933-03.json",
+      "05": "/api/earthquakes/date/1933-05.json",
+      "06": "/api/earthquakes/date/1933-06.json",
+      "07": "/api/earthquakes/date/1933-07.json",
+      "08": "/api/earthquakes/date/1933-08.json",
+      "09": "/api/earthquakes/date/1933-09.json"
+    },
+    "1934": {
+      "10": "/api/earthquakes/date/1934-10.json",
+      "11": "/api/earthquakes/date/1934-11.json",
+      "complete": "/api/earthquakes/date/1934.json",
+      "01": "/api/earthquakes/date/1934-01.json",
+      "02": "/api/earthquakes/date/1934-02.json",
+      "03": "/api/earthquakes/date/1934-03.json",
+      "04": "/api/earthquakes/date/1934-04.json",
+      "05": "/api/earthquakes/date/1934-05.json",
+      "06": "/api/earthquakes/date/1934-06.json",
+      "07": "/api/earthquakes/date/1934-07.json",
+      "08": "/api/earthquakes/date/1934-08.json",
+      "09": "/api/earthquakes/date/1934-09.json"
+    },
+    "1935": {
+      "10": "/api/earthquakes/date/1935-10.json",
+      "11": "/api/earthquakes/date/1935-11.json",
+      "12": "/api/earthquakes/date/1935-12.json",
+      "complete": "/api/earthquakes/date/1935.json",
+      "01": "/api/earthquakes/date/1935-01.json",
+      "03": "/api/earthquakes/date/1935-03.json",
+      "04": "/api/earthquakes/date/1935-04.json",
+      "07": "/api/earthquakes/date/1935-07.json",
+      "08": "/api/earthquakes/date/1935-08.json",
+      "09": "/api/earthquakes/date/1935-09.json"
+    },
+    "1936": {
+      "10": "/api/earthquakes/date/1936-10.json",
+      "11": "/api/earthquakes/date/1936-11.json",
+      "12": "/api/earthquakes/date/1936-12.json",
+      "complete": "/api/earthquakes/date/1936.json",
+      "01": "/api/earthquakes/date/1936-01.json",
+      "02": "/api/earthquakes/date/1936-02.json",
+      "03": "/api/earthquakes/date/1936-03.json",
+      "04": "/api/earthquakes/date/1936-04.json",
+      "06": "/api/earthquakes/date/1936-06.json",
+      "07": "/api/earthquakes/date/1936-07.json",
+      "08": "/api/earthquakes/date/1936-08.json",
+      "09": "/api/earthquakes/date/1936-09.json"
+    },
+    "1937": {
+      "10": "/api/earthquakes/date/1937-10.json",
+      "11": "/api/earthquakes/date/1937-11.json",
+      "12": "/api/earthquakes/date/1937-12.json",
+      "complete": "/api/earthquakes/date/1937.json",
+      "01": "/api/earthquakes/date/1937-01.json",
+      "02": "/api/earthquakes/date/1937-02.json",
+      "03": "/api/earthquakes/date/1937-03.json",
+      "05": "/api/earthquakes/date/1937-05.json",
+      "06": "/api/earthquakes/date/1937-06.json",
+      "07": "/api/earthquakes/date/1937-07.json",
+      "09": "/api/earthquakes/date/1937-09.json"
+    },
+    "1938": {
+      "10": "/api/earthquakes/date/1938-10.json",
+      "11": "/api/earthquakes/date/1938-11.json",
+      "12": "/api/earthquakes/date/1938-12.json",
+      "complete": "/api/earthquakes/date/1938.json",
+      "01": "/api/earthquakes/date/1938-01.json",
+      "02": "/api/earthquakes/date/1938-02.json",
+      "03": "/api/earthquakes/date/1938-03.json",
+      "04": "/api/earthquakes/date/1938-04.json",
+      "05": "/api/earthquakes/date/1938-05.json",
+      "06": "/api/earthquakes/date/1938-06.json",
+      "07": "/api/earthquakes/date/1938-07.json",
+      "08": "/api/earthquakes/date/1938-08.json",
+      "09": "/api/earthquakes/date/1938-09.json"
+    },
+    "1939": {
+      "10": "/api/earthquakes/date/1939-10.json",
+      "11": "/api/earthquakes/date/1939-11.json",
+      "12": "/api/earthquakes/date/1939-12.json",
+      "complete": "/api/earthquakes/date/1939.json",
+      "01": "/api/earthquakes/date/1939-01.json",
+      "02": "/api/earthquakes/date/1939-02.json",
+      "03": "/api/earthquakes/date/1939-03.json",
+      "04": "/api/earthquakes/date/1939-04.json",
+      "05": "/api/earthquakes/date/1939-05.json",
+      "06": "/api/earthquakes/date/1939-06.json",
+      "07": "/api/earthquakes/date/1939-07.json",
+      "09": "/api/earthquakes/date/1939-09.json"
+    },
+    "1940": {
+      "10": "/api/earthquakes/date/1940-10.json",
+      "11": "/api/earthquakes/date/1940-11.json",
+      "12": "/api/earthquakes/date/1940-12.json",
+      "complete": "/api/earthquakes/date/1940.json",
+      "01": "/api/earthquakes/date/1940-01.json",
+      "02": "/api/earthquakes/date/1940-02.json",
+      "03": "/api/earthquakes/date/1940-03.json",
+      "04": "/api/earthquakes/date/1940-04.json",
+      "05": "/api/earthquakes/date/1940-05.json",
+      "06": "/api/earthquakes/date/1940-06.json",
+      "07": "/api/earthquakes/date/1940-07.json",
+      "08": "/api/earthquakes/date/1940-08.json",
+      "09": "/api/earthquakes/date/1940-09.json"
+    },
+    "1941": {
+      "10": "/api/earthquakes/date/1941-10.json",
+      "11": "/api/earthquakes/date/1941-11.json",
+      "12": "/api/earthquakes/date/1941-12.json",
+      "complete": "/api/earthquakes/date/1941.json",
+      "01": "/api/earthquakes/date/1941-01.json",
+      "02": "/api/earthquakes/date/1941-02.json",
+      "03": "/api/earthquakes/date/1941-03.json",
+      "04": "/api/earthquakes/date/1941-04.json",
+      "05": "/api/earthquakes/date/1941-05.json",
+      "06": "/api/earthquakes/date/1941-06.json",
+      "07": "/api/earthquakes/date/1941-07.json",
+      "08": "/api/earthquakes/date/1941-08.json",
+      "09": "/api/earthquakes/date/1941-09.json"
+    },
+    "1942": {
+      "10": "/api/earthquakes/date/1942-10.json",
+      "11": "/api/earthquakes/date/1942-11.json",
+      "12": "/api/earthquakes/date/1942-12.json",
+      "complete": "/api/earthquakes/date/1942.json",
+      "01": "/api/earthquakes/date/1942-01.json",
+      "02": "/api/earthquakes/date/1942-02.json",
+      "03": "/api/earthquakes/date/1942-03.json",
+      "04": "/api/earthquakes/date/1942-04.json",
+      "05": "/api/earthquakes/date/1942-05.json",
+      "06": "/api/earthquakes/date/1942-06.json",
+      "08": "/api/earthquakes/date/1942-08.json",
+      "09": "/api/earthquakes/date/1942-09.json"
+    },
+    "1943": {
+      "10": "/api/earthquakes/date/1943-10.json",
+      "11": "/api/earthquakes/date/1943-11.json",
+      "12": "/api/earthquakes/date/1943-12.json",
+      "complete": "/api/earthquakes/date/1943.json",
+      "01": "/api/earthquakes/date/1943-01.json",
+      "02": "/api/earthquakes/date/1943-02.json",
+      "03": "/api/earthquakes/date/1943-03.json",
+      "04": "/api/earthquakes/date/1943-04.json",
+      "05": "/api/earthquakes/date/1943-05.json",
+      "06": "/api/earthquakes/date/1943-06.json",
+      "07": "/api/earthquakes/date/1943-07.json",
+      "09": "/api/earthquakes/date/1943-09.json"
+    },
+    "1944": {
+      "10": "/api/earthquakes/date/1944-10.json",
+      "11": "/api/earthquakes/date/1944-11.json",
+      "12": "/api/earthquakes/date/1944-12.json",
+      "complete": "/api/earthquakes/date/1944.json",
+      "01": "/api/earthquakes/date/1944-01.json",
+      "02": "/api/earthquakes/date/1944-02.json",
+      "03": "/api/earthquakes/date/1944-03.json",
+      "04": "/api/earthquakes/date/1944-04.json",
+      "06": "/api/earthquakes/date/1944-06.json",
+      "07": "/api/earthquakes/date/1944-07.json",
+      "08": "/api/earthquakes/date/1944-08.json",
+      "09": "/api/earthquakes/date/1944-09.json"
+    },
+    "1945": {
+      "10": "/api/earthquakes/date/1945-10.json",
+      "11": "/api/earthquakes/date/1945-11.json",
+      "12": "/api/earthquakes/date/1945-12.json",
+      "complete": "/api/earthquakes/date/1945.json",
+      "01": "/api/earthquakes/date/1945-01.json",
+      "02": "/api/earthquakes/date/1945-02.json",
+      "03": "/api/earthquakes/date/1945-03.json",
+      "04": "/api/earthquakes/date/1945-04.json",
+      "05": "/api/earthquakes/date/1945-05.json",
+      "06": "/api/earthquakes/date/1945-06.json",
+      "07": "/api/earthquakes/date/1945-07.json",
+      "08": "/api/earthquakes/date/1945-08.json",
+      "09": "/api/earthquakes/date/1945-09.json"
+    },
+    "1946": {
+      "10": "/api/earthquakes/date/1946-10.json",
+      "11": "/api/earthquakes/date/1946-11.json",
+      "12": "/api/earthquakes/date/1946-12.json",
+      "complete": "/api/earthquakes/date/1946.json",
+      "01": "/api/earthquakes/date/1946-01.json",
+      "02": "/api/earthquakes/date/1946-02.json",
+      "03": "/api/earthquakes/date/1946-03.json",
+      "04": "/api/earthquakes/date/1946-04.json",
+      "05": "/api/earthquakes/date/1946-05.json",
+      "06": "/api/earthquakes/date/1946-06.json",
+      "07": "/api/earthquakes/date/1946-07.json",
+      "08": "/api/earthquakes/date/1946-08.json",
+      "09": "/api/earthquakes/date/1946-09.json"
+    },
+    "1947": {
+      "10": "/api/earthquakes/date/1947-10.json",
+      "11": "/api/earthquakes/date/1947-11.json",
+      "12": "/api/earthquakes/date/1947-12.json",
+      "complete": "/api/earthquakes/date/1947.json",
+      "01": "/api/earthquakes/date/1947-01.json",
+      "02": "/api/earthquakes/date/1947-02.json",
+      "03": "/api/earthquakes/date/1947-03.json",
+      "04": "/api/earthquakes/date/1947-04.json",
+      "07": "/api/earthquakes/date/1947-07.json",
+      "08": "/api/earthquakes/date/1947-08.json",
+      "09": "/api/earthquakes/date/1947-09.json"
+    },
+    "1948": {
+      "11": "/api/earthquakes/date/1948-11.json",
+      "12": "/api/earthquakes/date/1948-12.json",
+      "complete": "/api/earthquakes/date/1948.json",
+      "01": "/api/earthquakes/date/1948-01.json",
+      "02": "/api/earthquakes/date/1948-02.json",
+      "03": "/api/earthquakes/date/1948-03.json",
+      "04": "/api/earthquakes/date/1948-04.json",
+      "05": "/api/earthquakes/date/1948-05.json",
+      "06": "/api/earthquakes/date/1948-06.json",
+      "07": "/api/earthquakes/date/1948-07.json",
+      "08": "/api/earthquakes/date/1948-08.json",
+      "09": "/api/earthquakes/date/1948-09.json"
+    },
+    "1949": {
+      "10": "/api/earthquakes/date/1949-10.json",
+      "11": "/api/earthquakes/date/1949-11.json",
+      "12": "/api/earthquakes/date/1949-12.json",
+      "complete": "/api/earthquakes/date/1949.json",
+      "01": "/api/earthquakes/date/1949-01.json",
+      "02": "/api/earthquakes/date/1949-02.json",
+      "03": "/api/earthquakes/date/1949-03.json",
+      "04": "/api/earthquakes/date/1949-04.json",
+      "05": "/api/earthquakes/date/1949-05.json",
+      "06": "/api/earthquakes/date/1949-06.json",
+      "07": "/api/earthquakes/date/1949-07.json",
+      "08": "/api/earthquakes/date/1949-08.json",
+      "09": "/api/earthquakes/date/1949-09.json"
+    },
+    "1950": {
+      "10": "/api/earthquakes/date/1950-10.json",
+      "11": "/api/earthquakes/date/1950-11.json",
+      "12": "/api/earthquakes/date/1950-12.json",
+      "complete": "/api/earthquakes/date/1950.json",
+      "01": "/api/earthquakes/date/1950-01.json",
+      "02": "/api/earthquakes/date/1950-02.json",
+      "03": "/api/earthquakes/date/1950-03.json",
+      "04": "/api/earthquakes/date/1950-04.json",
+      "05": "/api/earthquakes/date/1950-05.json",
+      "06": "/api/earthquakes/date/1950-06.json",
+      "08": "/api/earthquakes/date/1950-08.json",
+      "09": "/api/earthquakes/date/1950-09.json"
+    },
+    "1951": {
+      "10": "/api/earthquakes/date/1951-10.json",
+      "11": "/api/earthquakes/date/1951-11.json",
+      "12": "/api/earthquakes/date/1951-12.json",
+      "complete": "/api/earthquakes/date/1951.json",
+      "01": "/api/earthquakes/date/1951-01.json",
+      "02": "/api/earthquakes/date/1951-02.json",
+      "03": "/api/earthquakes/date/1951-03.json",
+      "04": "/api/earthquakes/date/1951-04.json",
+      "05": "/api/earthquakes/date/1951-05.json",
+      "06": "/api/earthquakes/date/1951-06.json",
+      "07": "/api/earthquakes/date/1951-07.json",
+      "08": "/api/earthquakes/date/1951-08.json",
+      "09": "/api/earthquakes/date/1951-09.json"
+    },
+    "1952": {
+      "10": "/api/earthquakes/date/1952-10.json",
+      "11": "/api/earthquakes/date/1952-11.json",
+      "12": "/api/earthquakes/date/1952-12.json",
+      "complete": "/api/earthquakes/date/1952.json",
+      "01": "/api/earthquakes/date/1952-01.json",
+      "02": "/api/earthquakes/date/1952-02.json",
+      "03": "/api/earthquakes/date/1952-03.json",
+      "04": "/api/earthquakes/date/1952-04.json",
+      "05": "/api/earthquakes/date/1952-05.json",
+      "06": "/api/earthquakes/date/1952-06.json",
+      "07": "/api/earthquakes/date/1952-07.json",
+      "08": "/api/earthquakes/date/1952-08.json",
+      "09": "/api/earthquakes/date/1952-09.json"
+    },
+    "1953": {
+      "10": "/api/earthquakes/date/1953-10.json",
+      "11": "/api/earthquakes/date/1953-11.json",
+      "12": "/api/earthquakes/date/1953-12.json",
+      "complete": "/api/earthquakes/date/1953.json",
+      "01": "/api/earthquakes/date/1953-01.json",
+      "02": "/api/earthquakes/date/1953-02.json",
+      "03": "/api/earthquakes/date/1953-03.json",
+      "04": "/api/earthquakes/date/1953-04.json",
+      "05": "/api/earthquakes/date/1953-05.json",
+      "06": "/api/earthquakes/date/1953-06.json",
+      "07": "/api/earthquakes/date/1953-07.json",
+      "08": "/api/earthquakes/date/1953-08.json",
+      "09": "/api/earthquakes/date/1953-09.json"
+    },
+    "1954": {
+      "10": "/api/earthquakes/date/1954-10.json",
+      "11": "/api/earthquakes/date/1954-11.json",
+      "12": "/api/earthquakes/date/1954-12.json",
+      "complete": "/api/earthquakes/date/1954.json",
+      "01": "/api/earthquakes/date/1954-01.json",
+      "02": "/api/earthquakes/date/1954-02.json",
+      "03": "/api/earthquakes/date/1954-03.json",
+      "04": "/api/earthquakes/date/1954-04.json",
+      "05": "/api/earthquakes/date/1954-05.json",
+      "06": "/api/earthquakes/date/1954-06.json",
+      "07": "/api/earthquakes/date/1954-07.json",
+      "08": "/api/earthquakes/date/1954-08.json",
+      "09": "/api/earthquakes/date/1954-09.json"
+    },
+    "1955": {
+      "10": "/api/earthquakes/date/1955-10.json",
+      "11": "/api/earthquakes/date/1955-11.json",
+      "12": "/api/earthquakes/date/1955-12.json",
+      "complete": "/api/earthquakes/date/1955.json",
+      "01": "/api/earthquakes/date/1955-01.json",
+      "02": "/api/earthquakes/date/1955-02.json",
+      "03": "/api/earthquakes/date/1955-03.json",
+      "04": "/api/earthquakes/date/1955-04.json",
+      "05": "/api/earthquakes/date/1955-05.json",
+      "06": "/api/earthquakes/date/1955-06.json",
+      "07": "/api/earthquakes/date/1955-07.json",
+      "08": "/api/earthquakes/date/1955-08.json",
+      "09": "/api/earthquakes/date/1955-09.json"
+    },
+    "1956": {
+      "10": "/api/earthquakes/date/1956-10.json",
+      "11": "/api/earthquakes/date/1956-11.json",
+      "12": "/api/earthquakes/date/1956-12.json",
+      "complete": "/api/earthquakes/date/1956.json",
+      "01": "/api/earthquakes/date/1956-01.json",
+      "02": "/api/earthquakes/date/1956-02.json",
+      "03": "/api/earthquakes/date/1956-03.json",
+      "04": "/api/earthquakes/date/1956-04.json",
+      "05": "/api/earthquakes/date/1956-05.json",
+      "06": "/api/earthquakes/date/1956-06.json",
+      "07": "/api/earthquakes/date/1956-07.json",
+      "08": "/api/earthquakes/date/1956-08.json",
+      "09": "/api/earthquakes/date/1956-09.json"
+    },
+    "1957": {
+      "10": "/api/earthquakes/date/1957-10.json",
+      "11": "/api/earthquakes/date/1957-11.json",
+      "12": "/api/earthquakes/date/1957-12.json",
+      "complete": "/api/earthquakes/date/1957.json",
+      "01": "/api/earthquakes/date/1957-01.json",
+      "02": "/api/earthquakes/date/1957-02.json",
+      "03": "/api/earthquakes/date/1957-03.json",
+      "04": "/api/earthquakes/date/1957-04.json",
+      "05": "/api/earthquakes/date/1957-05.json",
+      "06": "/api/earthquakes/date/1957-06.json",
+      "07": "/api/earthquakes/date/1957-07.json",
+      "08": "/api/earthquakes/date/1957-08.json",
+      "09": "/api/earthquakes/date/1957-09.json"
+    },
+    "1958": {
+      "10": "/api/earthquakes/date/1958-10.json",
+      "11": "/api/earthquakes/date/1958-11.json",
+      "12": "/api/earthquakes/date/1958-12.json",
+      "complete": "/api/earthquakes/date/1958.json",
+      "01": "/api/earthquakes/date/1958-01.json",
+      "02": "/api/earthquakes/date/1958-02.json",
+      "03": "/api/earthquakes/date/1958-03.json",
+      "04": "/api/earthquakes/date/1958-04.json",
+      "05": "/api/earthquakes/date/1958-05.json",
+      "06": "/api/earthquakes/date/1958-06.json",
+      "07": "/api/earthquakes/date/1958-07.json",
+      "08": "/api/earthquakes/date/1958-08.json",
+      "09": "/api/earthquakes/date/1958-09.json"
+    },
+    "1959": {
+      "10": "/api/earthquakes/date/1959-10.json",
+      "11": "/api/earthquakes/date/1959-11.json",
+      "12": "/api/earthquakes/date/1959-12.json",
+      "complete": "/api/earthquakes/date/1959.json",
+      "01": "/api/earthquakes/date/1959-01.json",
+      "02": "/api/earthquakes/date/1959-02.json",
+      "03": "/api/earthquakes/date/1959-03.json",
+      "04": "/api/earthquakes/date/1959-04.json",
+      "05": "/api/earthquakes/date/1959-05.json",
+      "06": "/api/earthquakes/date/1959-06.json",
+      "07": "/api/earthquakes/date/1959-07.json",
+      "08": "/api/earthquakes/date/1959-08.json",
+      "09": "/api/earthquakes/date/1959-09.json"
+    },
+    "1960": {
+      "10": "/api/earthquakes/date/1960-10.json",
+      "11": "/api/earthquakes/date/1960-11.json",
+      "12": "/api/earthquakes/date/1960-12.json",
+      "complete": "/api/earthquakes/date/1960.json",
+      "01": "/api/earthquakes/date/1960-01.json",
+      "02": "/api/earthquakes/date/1960-02.json",
+      "03": "/api/earthquakes/date/1960-03.json",
+      "04": "/api/earthquakes/date/1960-04.json",
+      "05": "/api/earthquakes/date/1960-05.json",
+      "06": "/api/earthquakes/date/1960-06.json",
+      "07": "/api/earthquakes/date/1960-07.json",
+      "08": "/api/earthquakes/date/1960-08.json",
+      "09": "/api/earthquakes/date/1960-09.json"
+    },
+    "1961": {
+      "10": "/api/earthquakes/date/1961-10.json",
+      "11": "/api/earthquakes/date/1961-11.json",
+      "12": "/api/earthquakes/date/1961-12.json",
+      "complete": "/api/earthquakes/date/1961.json",
+      "01": "/api/earthquakes/date/1961-01.json",
+      "02": "/api/earthquakes/date/1961-02.json",
+      "03": "/api/earthquakes/date/1961-03.json",
+      "04": "/api/earthquakes/date/1961-04.json",
+      "05": "/api/earthquakes/date/1961-05.json",
+      "06": "/api/earthquakes/date/1961-06.json",
+      "07": "/api/earthquakes/date/1961-07.json",
+      "08": "/api/earthquakes/date/1961-08.json",
+      "09": "/api/earthquakes/date/1961-09.json"
+    },
+    "1962": {
+      "10": "/api/earthquakes/date/1962-10.json",
+      "11": "/api/earthquakes/date/1962-11.json",
+      "12": "/api/earthquakes/date/1962-12.json",
+      "complete": "/api/earthquakes/date/1962.json",
+      "01": "/api/earthquakes/date/1962-01.json",
+      "02": "/api/earthquakes/date/1962-02.json",
+      "03": "/api/earthquakes/date/1962-03.json",
+      "04": "/api/earthquakes/date/1962-04.json",
+      "05": "/api/earthquakes/date/1962-05.json",
+      "06": "/api/earthquakes/date/1962-06.json",
+      "07": "/api/earthquakes/date/1962-07.json",
+      "08": "/api/earthquakes/date/1962-08.json",
+      "09": "/api/earthquakes/date/1962-09.json"
+    },
+    "1963": {
+      "10": "/api/earthquakes/date/1963-10.json",
+      "11": "/api/earthquakes/date/1963-11.json",
+      "12": "/api/earthquakes/date/1963-12.json",
+      "complete": "/api/earthquakes/date/1963.json",
+      "01": "/api/earthquakes/date/1963-01.json",
+      "02": "/api/earthquakes/date/1963-02.json",
+      "03": "/api/earthquakes/date/1963-03.json",
+      "04": "/api/earthquakes/date/1963-04.json",
+      "05": "/api/earthquakes/date/1963-05.json",
+      "06": "/api/earthquakes/date/1963-06.json",
+      "07": "/api/earthquakes/date/1963-07.json",
+      "08": "/api/earthquakes/date/1963-08.json",
+      "09": "/api/earthquakes/date/1963-09.json"
+    },
+    "1964": {
+      "10": "/api/earthquakes/date/1964-10.json",
+      "11": "/api/earthquakes/date/1964-11.json",
+      "12": "/api/earthquakes/date/1964-12.json",
+      "complete": "/api/earthquakes/date/1964.json",
+      "01": "/api/earthquakes/date/1964-01.json",
+      "02": "/api/earthquakes/date/1964-02.json",
+      "03": "/api/earthquakes/date/1964-03.json",
+      "04": "/api/earthquakes/date/1964-04.json",
+      "05": "/api/earthquakes/date/1964-05.json",
+      "06": "/api/earthquakes/date/1964-06.json",
+      "07": "/api/earthquakes/date/1964-07.json",
+      "08": "/api/earthquakes/date/1964-08.json",
+      "09": "/api/earthquakes/date/1964-09.json"
+    },
+    "1965": {
+      "10": "/api/earthquakes/date/1965-10.json",
+      "11": "/api/earthquakes/date/1965-11.json",
+      "12": "/api/earthquakes/date/1965-12.json",
+      "complete": "/api/earthquakes/date/1965.json",
+      "01": "/api/earthquakes/date/1965-01.json",
+      "02": "/api/earthquakes/date/1965-02.json",
+      "03": "/api/earthquakes/date/1965-03.json",
+      "04": "/api/earthquakes/date/1965-04.json",
+      "05": "/api/earthquakes/date/1965-05.json",
+      "06": "/api/earthquakes/date/1965-06.json",
+      "07": "/api/earthquakes/date/1965-07.json",
+      "08": "/api/earthquakes/date/1965-08.json",
+      "09": "/api/earthquakes/date/1965-09.json"
+    },
+    "1966": {
+      "10": "/api/earthquakes/date/1966-10.json",
+      "11": "/api/earthquakes/date/1966-11.json",
+      "12": "/api/earthquakes/date/1966-12.json",
+      "complete": "/api/earthquakes/date/1966.json",
+      "01": "/api/earthquakes/date/1966-01.json",
+      "02": "/api/earthquakes/date/1966-02.json",
+      "03": "/api/earthquakes/date/1966-03.json",
+      "04": "/api/earthquakes/date/1966-04.json",
+      "05": "/api/earthquakes/date/1966-05.json",
+      "06": "/api/earthquakes/date/1966-06.json",
+      "07": "/api/earthquakes/date/1966-07.json",
+      "08": "/api/earthquakes/date/1966-08.json",
+      "09": "/api/earthquakes/date/1966-09.json"
+    },
+    "1967": {
+      "10": "/api/earthquakes/date/1967-10.json",
+      "11": "/api/earthquakes/date/1967-11.json",
+      "12": "/api/earthquakes/date/1967-12.json",
+      "complete": "/api/earthquakes/date/1967.json",
+      "01": "/api/earthquakes/date/1967-01.json",
+      "02": "/api/earthquakes/date/1967-02.json",
+      "03": "/api/earthquakes/date/1967-03.json",
+      "04": "/api/earthquakes/date/1967-04.json",
+      "05": "/api/earthquakes/date/1967-05.json",
+      "06": "/api/earthquakes/date/1967-06.json",
+      "07": "/api/earthquakes/date/1967-07.json",
+      "08": "/api/earthquakes/date/1967-08.json",
+      "09": "/api/earthquakes/date/1967-09.json"
+    },
+    "1968": {
+      "10": "/api/earthquakes/date/1968-10.json",
+      "11": "/api/earthquakes/date/1968-11.json",
+      "12": "/api/earthquakes/date/1968-12.json",
+      "complete": "/api/earthquakes/date/1968.json",
+      "01": "/api/earthquakes/date/1968-01.json",
+      "02": "/api/earthquakes/date/1968-02.json",
+      "03": "/api/earthquakes/date/1968-03.json",
+      "04": "/api/earthquakes/date/1968-04.json",
+      "05": "/api/earthquakes/date/1968-05.json",
+      "06": "/api/earthquakes/date/1968-06.json",
+      "07": "/api/earthquakes/date/1968-07.json",
+      "08": "/api/earthquakes/date/1968-08.json",
+      "09": "/api/earthquakes/date/1968-09.json"
+    },
+    "1969": {
+      "10": "/api/earthquakes/date/1969-10.json",
+      "11": "/api/earthquakes/date/1969-11.json",
+      "12": "/api/earthquakes/date/1969-12.json",
+      "complete": "/api/earthquakes/date/1969.json",
+      "01": "/api/earthquakes/date/1969-01.json",
+      "02": "/api/earthquakes/date/1969-02.json",
+      "03": "/api/earthquakes/date/1969-03.json",
+      "04": "/api/earthquakes/date/1969-04.json",
+      "05": "/api/earthquakes/date/1969-05.json",
+      "06": "/api/earthquakes/date/1969-06.json",
+      "07": "/api/earthquakes/date/1969-07.json",
+      "08": "/api/earthquakes/date/1969-08.json",
+      "09": "/api/earthquakes/date/1969-09.json"
+    },
+    "1970": {
+      "10": "/api/earthquakes/date/1970-10.json",
+      "11": "/api/earthquakes/date/1970-11.json",
+      "12": "/api/earthquakes/date/1970-12.json",
+      "complete": "/api/earthquakes/date/1970.json",
+      "01": "/api/earthquakes/date/1970-01.json",
+      "02": "/api/earthquakes/date/1970-02.json",
+      "03": "/api/earthquakes/date/1970-03.json",
+      "04": "/api/earthquakes/date/1970-04.json",
+      "05": "/api/earthquakes/date/1970-05.json",
+      "06": "/api/earthquakes/date/1970-06.json",
+      "07": "/api/earthquakes/date/1970-07.json",
+      "08": "/api/earthquakes/date/1970-08.json",
+      "09": "/api/earthquakes/date/1970-09.json"
+    },
+    "1971": {
+      "10": "/api/earthquakes/date/1971-10.json",
+      "11": "/api/earthquakes/date/1971-11.json",
+      "12": "/api/earthquakes/date/1971-12.json",
+      "complete": "/api/earthquakes/date/1971.json",
+      "01": "/api/earthquakes/date/1971-01.json",
+      "02": "/api/earthquakes/date/1971-02.json",
+      "03": "/api/earthquakes/date/1971-03.json",
+      "04": "/api/earthquakes/date/1971-04.json",
+      "05": "/api/earthquakes/date/1971-05.json",
+      "06": "/api/earthquakes/date/1971-06.json",
+      "07": "/api/earthquakes/date/1971-07.json",
+      "08": "/api/earthquakes/date/1971-08.json",
+      "09": "/api/earthquakes/date/1971-09.json"
+    },
+    "1972": {
+      "10": "/api/earthquakes/date/1972-10.json",
+      "11": "/api/earthquakes/date/1972-11.json",
+      "12": "/api/earthquakes/date/1972-12.json",
+      "complete": "/api/earthquakes/date/1972.json",
+      "01": "/api/earthquakes/date/1972-01.json",
+      "02": "/api/earthquakes/date/1972-02.json",
+      "03": "/api/earthquakes/date/1972-03.json",
+      "04": "/api/earthquakes/date/1972-04.json",
+      "05": "/api/earthquakes/date/1972-05.json",
+      "06": "/api/earthquakes/date/1972-06.json",
+      "07": "/api/earthquakes/date/1972-07.json",
+      "08": "/api/earthquakes/date/1972-08.json",
+      "09": "/api/earthquakes/date/1972-09.json"
+    },
+    "1973": {
+      "10": "/api/earthquakes/date/1973-10.json",
+      "11": "/api/earthquakes/date/1973-11.json",
+      "12": "/api/earthquakes/date/1973-12.json",
+      "complete": "/api/earthquakes/date/1973.json",
+      "01": "/api/earthquakes/date/1973-01.json",
+      "02": "/api/earthquakes/date/1973-02.json",
+      "03": "/api/earthquakes/date/1973-03.json",
+      "04": "/api/earthquakes/date/1973-04.json",
+      "05": "/api/earthquakes/date/1973-05.json",
+      "06": "/api/earthquakes/date/1973-06.json",
+      "07": "/api/earthquakes/date/1973-07.json",
+      "08": "/api/earthquakes/date/1973-08.json",
+      "09": "/api/earthquakes/date/1973-09.json"
+    },
+    "1974": {
+      "10": "/api/earthquakes/date/1974-10.json",
+      "11": "/api/earthquakes/date/1974-11.json",
+      "12": "/api/earthquakes/date/1974-12.json",
+      "complete": "/api/earthquakes/date/1974.json",
+      "01": "/api/earthquakes/date/1974-01.json",
+      "02": "/api/earthquakes/date/1974-02.json",
+      "03": "/api/earthquakes/date/1974-03.json",
+      "04": "/api/earthquakes/date/1974-04.json",
+      "05": "/api/earthquakes/date/1974-05.json",
+      "06": "/api/earthquakes/date/1974-06.json",
+      "07": "/api/earthquakes/date/1974-07.json",
+      "08": "/api/earthquakes/date/1974-08.json",
+      "09": "/api/earthquakes/date/1974-09.json"
+    },
+    "1975": {
+      "10": "/api/earthquakes/date/1975-10.json",
+      "11": "/api/earthquakes/date/1975-11.json",
+      "12": "/api/earthquakes/date/1975-12.json",
+      "complete": "/api/earthquakes/date/1975.json",
+      "01": "/api/earthquakes/date/1975-01.json",
+      "02": "/api/earthquakes/date/1975-02.json",
+      "03": "/api/earthquakes/date/1975-03.json",
+      "04": "/api/earthquakes/date/1975-04.json",
+      "05": "/api/earthquakes/date/1975-05.json",
+      "06": "/api/earthquakes/date/1975-06.json",
+      "07": "/api/earthquakes/date/1975-07.json",
+      "08": "/api/earthquakes/date/1975-08.json",
+      "09": "/api/earthquakes/date/1975-09.json"
+    },
+    "1976": {
+      "10": "/api/earthquakes/date/1976-10.json",
+      "11": "/api/earthquakes/date/1976-11.json",
+      "12": "/api/earthquakes/date/1976-12.json",
+      "complete": "/api/earthquakes/date/1976.json",
+      "01": "/api/earthquakes/date/1976-01.json",
+      "02": "/api/earthquakes/date/1976-02.json",
+      "03": "/api/earthquakes/date/1976-03.json",
+      "04": "/api/earthquakes/date/1976-04.json",
+      "05": "/api/earthquakes/date/1976-05.json",
+      "06": "/api/earthquakes/date/1976-06.json",
+      "07": "/api/earthquakes/date/1976-07.json",
+      "08": "/api/earthquakes/date/1976-08.json",
+      "09": "/api/earthquakes/date/1976-09.json"
+    },
+    "1977": {
+      "10": "/api/earthquakes/date/1977-10.json",
+      "11": "/api/earthquakes/date/1977-11.json",
+      "12": "/api/earthquakes/date/1977-12.json",
+      "complete": "/api/earthquakes/date/1977.json",
+      "01": "/api/earthquakes/date/1977-01.json",
+      "02": "/api/earthquakes/date/1977-02.json",
+      "03": "/api/earthquakes/date/1977-03.json",
+      "04": "/api/earthquakes/date/1977-04.json",
+      "05": "/api/earthquakes/date/1977-05.json",
+      "06": "/api/earthquakes/date/1977-06.json",
+      "07": "/api/earthquakes/date/1977-07.json",
+      "08": "/api/earthquakes/date/1977-08.json",
+      "09": "/api/earthquakes/date/1977-09.json"
+    },
+    "1978": {
+      "10": "/api/earthquakes/date/1978-10.json",
+      "11": "/api/earthquakes/date/1978-11.json",
+      "12": "/api/earthquakes/date/1978-12.json",
+      "complete": "/api/earthquakes/date/1978.json",
+      "01": "/api/earthquakes/date/1978-01.json",
+      "02": "/api/earthquakes/date/1978-02.json",
+      "03": "/api/earthquakes/date/1978-03.json",
+      "04": "/api/earthquakes/date/1978-04.json",
+      "05": "/api/earthquakes/date/1978-05.json",
+      "06": "/api/earthquakes/date/1978-06.json",
+      "07": "/api/earthquakes/date/1978-07.json",
+      "08": "/api/earthquakes/date/1978-08.json",
+      "09": "/api/earthquakes/date/1978-09.json"
+    },
+    "1979": {
+      "10": "/api/earthquakes/date/1979-10.json",
+      "11": "/api/earthquakes/date/1979-11.json",
+      "12": "/api/earthquakes/date/1979-12.json",
+      "complete": "/api/earthquakes/date/1979.json",
+      "01": "/api/earthquakes/date/1979-01.json",
+      "02": "/api/earthquakes/date/1979-02.json",
+      "03": "/api/earthquakes/date/1979-03.json",
+      "04": "/api/earthquakes/date/1979-04.json",
+      "05": "/api/earthquakes/date/1979-05.json",
+      "06": "/api/earthquakes/date/1979-06.json",
+      "07": "/api/earthquakes/date/1979-07.json",
+      "08": "/api/earthquakes/date/1979-08.json",
+      "09": "/api/earthquakes/date/1979-09.json"
+    },
+    "1980": {
+      "10": "/api/earthquakes/date/1980-10.json",
+      "11": "/api/earthquakes/date/1980-11.json",
+      "12": "/api/earthquakes/date/1980-12.json",
+      "complete": "/api/earthquakes/date/1980.json",
+      "01": "/api/earthquakes/date/1980-01.json",
+      "02": "/api/earthquakes/date/1980-02.json",
+      "03": "/api/earthquakes/date/1980-03.json",
+      "04": "/api/earthquakes/date/1980-04.json",
+      "05": "/api/earthquakes/date/1980-05.json",
+      "06": "/api/earthquakes/date/1980-06.json",
+      "07": "/api/earthquakes/date/1980-07.json",
+      "08": "/api/earthquakes/date/1980-08.json",
+      "09": "/api/earthquakes/date/1980-09.json"
+    },
+    "1981": {
+      "10": "/api/earthquakes/date/1981-10.json",
+      "11": "/api/earthquakes/date/1981-11.json",
+      "12": "/api/earthquakes/date/1981-12.json",
+      "complete": "/api/earthquakes/date/1981.json",
+      "01": "/api/earthquakes/date/1981-01.json",
+      "02": "/api/earthquakes/date/1981-02.json",
+      "03": "/api/earthquakes/date/1981-03.json",
+      "04": "/api/earthquakes/date/1981-04.json",
+      "05": "/api/earthquakes/date/1981-05.json",
+      "06": "/api/earthquakes/date/1981-06.json",
+      "07": "/api/earthquakes/date/1981-07.json",
+      "08": "/api/earthquakes/date/1981-08.json",
+      "09": "/api/earthquakes/date/1981-09.json"
+    },
+    "1982": {
+      "10": "/api/earthquakes/date/1982-10.json",
+      "11": "/api/earthquakes/date/1982-11.json",
+      "12": "/api/earthquakes/date/1982-12.json",
+      "complete": "/api/earthquakes/date/1982.json",
+      "01": "/api/earthquakes/date/1982-01.json",
+      "02": "/api/earthquakes/date/1982-02.json",
+      "03": "/api/earthquakes/date/1982-03.json",
+      "04": "/api/earthquakes/date/1982-04.json",
+      "05": "/api/earthquakes/date/1982-05.json",
+      "06": "/api/earthquakes/date/1982-06.json",
+      "07": "/api/earthquakes/date/1982-07.json",
+      "08": "/api/earthquakes/date/1982-08.json",
+      "09": "/api/earthquakes/date/1982-09.json"
+    },
+    "1983": {
+      "10": "/api/earthquakes/date/1983-10.json",
+      "11": "/api/earthquakes/date/1983-11.json",
+      "12": "/api/earthquakes/date/1983-12.json",
+      "complete": "/api/earthquakes/date/1983.json",
+      "01": "/api/earthquakes/date/1983-01.json",
+      "02": "/api/earthquakes/date/1983-02.json",
+      "03": "/api/earthquakes/date/1983-03.json",
+      "04": "/api/earthquakes/date/1983-04.json",
+      "05": "/api/earthquakes/date/1983-05.json",
+      "06": "/api/earthquakes/date/1983-06.json",
+      "07": "/api/earthquakes/date/1983-07.json",
+      "08": "/api/earthquakes/date/1983-08.json",
+      "09": "/api/earthquakes/date/1983-09.json"
+    },
+    "1984": {
+      "10": "/api/earthquakes/date/1984-10.json",
+      "11": "/api/earthquakes/date/1984-11.json",
+      "12": "/api/earthquakes/date/1984-12.json",
+      "complete": "/api/earthquakes/date/1984.json",
+      "01": "/api/earthquakes/date/1984-01.json",
+      "02": "/api/earthquakes/date/1984-02.json",
+      "03": "/api/earthquakes/date/1984-03.json",
+      "04": "/api/earthquakes/date/1984-04.json",
+      "05": "/api/earthquakes/date/1984-05.json",
+      "06": "/api/earthquakes/date/1984-06.json",
+      "07": "/api/earthquakes/date/1984-07.json",
+      "08": "/api/earthquakes/date/1984-08.json",
+      "09": "/api/earthquakes/date/1984-09.json"
+    },
+    "1985": {
+      "10": "/api/earthquakes/date/1985-10.json",
+      "11": "/api/earthquakes/date/1985-11.json",
+      "12": "/api/earthquakes/date/1985-12.json",
+      "complete": "/api/earthquakes/date/1985.json",
+      "01": "/api/earthquakes/date/1985-01.json",
+      "02": "/api/earthquakes/date/1985-02.json",
+      "03": "/api/earthquakes/date/1985-03.json",
+      "04": "/api/earthquakes/date/1985-04.json",
+      "05": "/api/earthquakes/date/1985-05.json",
+      "06": "/api/earthquakes/date/1985-06.json",
+      "07": "/api/earthquakes/date/1985-07.json",
+      "08": "/api/earthquakes/date/1985-08.json",
+      "09": "/api/earthquakes/date/1985-09.json"
+    },
+    "1986": {
+      "10": "/api/earthquakes/date/1986-10.json",
+      "11": "/api/earthquakes/date/1986-11.json",
+      "12": "/api/earthquakes/date/1986-12.json",
+      "complete": "/api/earthquakes/date/1986.json",
+      "01": "/api/earthquakes/date/1986-01.json",
+      "02": "/api/earthquakes/date/1986-02.json",
+      "03": "/api/earthquakes/date/1986-03.json",
+      "04": "/api/earthquakes/date/1986-04.json",
+      "05": "/api/earthquakes/date/1986-05.json",
+      "06": "/api/earthquakes/date/1986-06.json",
+      "07": "/api/earthquakes/date/1986-07.json",
+      "08": "/api/earthquakes/date/1986-08.json",
+      "09": "/api/earthquakes/date/1986-09.json"
+    },
+    "1987": {
+      "10": "/api/earthquakes/date/1987-10.json",
+      "11": "/api/earthquakes/date/1987-11.json",
+      "12": "/api/earthquakes/date/1987-12.json",
+      "complete": "/api/earthquakes/date/1987.json",
+      "01": "/api/earthquakes/date/1987-01.json",
+      "02": "/api/earthquakes/date/1987-02.json",
+      "03": "/api/earthquakes/date/1987-03.json",
+      "04": "/api/earthquakes/date/1987-04.json",
+      "05": "/api/earthquakes/date/1987-05.json",
+      "06": "/api/earthquakes/date/1987-06.json",
+      "07": "/api/earthquakes/date/1987-07.json",
+      "08": "/api/earthquakes/date/1987-08.json",
+      "09": "/api/earthquakes/date/1987-09.json"
+    },
+    "1988": {
+      "10": "/api/earthquakes/date/1988-10.json",
+      "11": "/api/earthquakes/date/1988-11.json",
+      "12": "/api/earthquakes/date/1988-12.json",
+      "complete": "/api/earthquakes/date/1988.json",
+      "01": "/api/earthquakes/date/1988-01.json",
+      "02": "/api/earthquakes/date/1988-02.json",
+      "03": "/api/earthquakes/date/1988-03.json",
+      "04": "/api/earthquakes/date/1988-04.json",
+      "05": "/api/earthquakes/date/1988-05.json",
+      "06": "/api/earthquakes/date/1988-06.json",
+      "07": "/api/earthquakes/date/1988-07.json",
+      "08": "/api/earthquakes/date/1988-08.json",
+      "09": "/api/earthquakes/date/1988-09.json"
+    },
+    "1989": {
+      "10": "/api/earthquakes/date/1989-10.json",
+      "11": "/api/earthquakes/date/1989-11.json",
+      "12": "/api/earthquakes/date/1989-12.json",
+      "complete": "/api/earthquakes/date/1989.json",
+      "01": "/api/earthquakes/date/1989-01.json",
+      "02": "/api/earthquakes/date/1989-02.json",
+      "03": "/api/earthquakes/date/1989-03.json",
+      "04": "/api/earthquakes/date/1989-04.json",
+      "05": "/api/earthquakes/date/1989-05.json",
+      "06": "/api/earthquakes/date/1989-06.json",
+      "07": "/api/earthquakes/date/1989-07.json",
+      "08": "/api/earthquakes/date/1989-08.json",
+      "09": "/api/earthquakes/date/1989-09.json"
+    },
+    "1990": {
+      "10": "/api/earthquakes/date/1990-10.json",
+      "11": "/api/earthquakes/date/1990-11.json",
+      "12": "/api/earthquakes/date/1990-12.json",
+      "complete": "/api/earthquakes/date/1990.json",
+      "01": "/api/earthquakes/date/1990-01.json",
+      "02": "/api/earthquakes/date/1990-02.json",
+      "03": "/api/earthquakes/date/1990-03.json",
+      "04": "/api/earthquakes/date/1990-04.json",
+      "05": "/api/earthquakes/date/1990-05.json",
+      "06": "/api/earthquakes/date/1990-06.json",
+      "07": "/api/earthquakes/date/1990-07.json",
+      "08": "/api/earthquakes/date/1990-08.json",
+      "09": "/api/earthquakes/date/1990-09.json"
+    },
+    "1991": {
+      "10": "/api/earthquakes/date/1991-10.json",
+      "11": "/api/earthquakes/date/1991-11.json",
+      "12": "/api/earthquakes/date/1991-12.json",
+      "complete": "/api/earthquakes/date/1991.json",
+      "01": "/api/earthquakes/date/1991-01.json",
+      "02": "/api/earthquakes/date/1991-02.json",
+      "03": "/api/earthquakes/date/1991-03.json",
+      "04": "/api/earthquakes/date/1991-04.json",
+      "05": "/api/earthquakes/date/1991-05.json",
+      "06": "/api/earthquakes/date/1991-06.json",
+      "07": "/api/earthquakes/date/1991-07.json",
+      "08": "/api/earthquakes/date/1991-08.json",
+      "09": "/api/earthquakes/date/1991-09.json"
+    },
+    "1992": {
+      "10": "/api/earthquakes/date/1992-10.json",
+      "11": "/api/earthquakes/date/1992-11.json",
+      "12": "/api/earthquakes/date/1992-12.json",
+      "complete": "/api/earthquakes/date/1992.json",
+      "01": "/api/earthquakes/date/1992-01.json",
+      "02": "/api/earthquakes/date/1992-02.json",
+      "03": "/api/earthquakes/date/1992-03.json",
+      "04": "/api/earthquakes/date/1992-04.json",
+      "05": "/api/earthquakes/date/1992-05.json",
+      "06": "/api/earthquakes/date/1992-06.json",
+      "07": "/api/earthquakes/date/1992-07.json",
+      "08": "/api/earthquakes/date/1992-08.json",
+      "09": "/api/earthquakes/date/1992-09.json"
+    },
+    "1993": {
+      "10": "/api/earthquakes/date/1993-10.json",
+      "11": "/api/earthquakes/date/1993-11.json",
+      "12": "/api/earthquakes/date/1993-12.json",
+      "complete": "/api/earthquakes/date/1993.json",
+      "01": "/api/earthquakes/date/1993-01.json",
+      "02": "/api/earthquakes/date/1993-02.json",
+      "03": "/api/earthquakes/date/1993-03.json",
+      "04": "/api/earthquakes/date/1993-04.json",
+      "05": "/api/earthquakes/date/1993-05.json",
+      "06": "/api/earthquakes/date/1993-06.json",
+      "07": "/api/earthquakes/date/1993-07.json",
+      "08": "/api/earthquakes/date/1993-08.json",
+      "09": "/api/earthquakes/date/1993-09.json"
+    },
+    "1994": {
+      "10": "/api/earthquakes/date/1994-10.json",
+      "11": "/api/earthquakes/date/1994-11.json",
+      "12": "/api/earthquakes/date/1994-12.json",
+      "complete": "/api/earthquakes/date/1994.json",
+      "01": "/api/earthquakes/date/1994-01.json",
+      "02": "/api/earthquakes/date/1994-02.json",
+      "03": "/api/earthquakes/date/1994-03.json",
+      "04": "/api/earthquakes/date/1994-04.json",
+      "05": "/api/earthquakes/date/1994-05.json",
+      "06": "/api/earthquakes/date/1994-06.json",
+      "07": "/api/earthquakes/date/1994-07.json",
+      "08": "/api/earthquakes/date/1994-08.json",
+      "09": "/api/earthquakes/date/1994-09.json"
+    },
+    "1995": {
+      "10": "/api/earthquakes/date/1995-10.json",
+      "11": "/api/earthquakes/date/1995-11.json",
+      "12": "/api/earthquakes/date/1995-12.json",
+      "complete": "/api/earthquakes/date/1995.json",
+      "01": "/api/earthquakes/date/1995-01.json",
+      "02": "/api/earthquakes/date/1995-02.json",
+      "03": "/api/earthquakes/date/1995-03.json",
+      "04": "/api/earthquakes/date/1995-04.json",
+      "05": "/api/earthquakes/date/1995-05.json",
+      "06": "/api/earthquakes/date/1995-06.json",
+      "07": "/api/earthquakes/date/1995-07.json",
+      "08": "/api/earthquakes/date/1995-08.json",
+      "09": "/api/earthquakes/date/1995-09.json"
+    },
+    "1996": {
+      "10": "/api/earthquakes/date/1996-10.json",
+      "11": "/api/earthquakes/date/1996-11.json",
+      "12": "/api/earthquakes/date/1996-12.json",
+      "complete": "/api/earthquakes/date/1996.json",
+      "01": "/api/earthquakes/date/1996-01.json",
+      "02": "/api/earthquakes/date/1996-02.json",
+      "03": "/api/earthquakes/date/1996-03.json",
+      "04": "/api/earthquakes/date/1996-04.json",
+      "05": "/api/earthquakes/date/1996-05.json",
+      "06": "/api/earthquakes/date/1996-06.json",
+      "07": "/api/earthquakes/date/1996-07.json",
+      "08": "/api/earthquakes/date/1996-08.json",
+      "09": "/api/earthquakes/date/1996-09.json"
+    },
+    "1997": {
+      "10": "/api/earthquakes/date/1997-10.json",
+      "11": "/api/earthquakes/date/1997-11.json",
+      "12": "/api/earthquakes/date/1997-12.json",
+      "complete": "/api/earthquakes/date/1997.json",
+      "01": "/api/earthquakes/date/1997-01.json",
+      "02": "/api/earthquakes/date/1997-02.json",
+      "03": "/api/earthquakes/date/1997-03.json",
+      "04": "/api/earthquakes/date/1997-04.json",
+      "05": "/api/earthquakes/date/1997-05.json",
+      "06": "/api/earthquakes/date/1997-06.json",
+      "07": "/api/earthquakes/date/1997-07.json",
+      "08": "/api/earthquakes/date/1997-08.json",
+      "09": "/api/earthquakes/date/1997-09.json"
+    },
+    "1998": {
+      "10": "/api/earthquakes/date/1998-10.json",
+      "11": "/api/earthquakes/date/1998-11.json",
+      "12": "/api/earthquakes/date/1998-12.json",
+      "complete": "/api/earthquakes/date/1998.json",
+      "01": "/api/earthquakes/date/1998-01.json",
+      "02": "/api/earthquakes/date/1998-02.json",
+      "03": "/api/earthquakes/date/1998-03.json",
+      "04": "/api/earthquakes/date/1998-04.json",
+      "05": "/api/earthquakes/date/1998-05.json",
+      "06": "/api/earthquakes/date/1998-06.json",
+      "07": "/api/earthquakes/date/1998-07.json",
+      "08": "/api/earthquakes/date/1998-08.json",
+      "09": "/api/earthquakes/date/1998-09.json"
+    },
+    "1999": {
+      "10": "/api/earthquakes/date/1999-10.json",
+      "11": "/api/earthquakes/date/1999-11.json",
+      "12": "/api/earthquakes/date/1999-12.json",
+      "complete": "/api/earthquakes/date/1999.json",
+      "01": "/api/earthquakes/date/1999-01.json",
+      "02": "/api/earthquakes/date/1999-02.json",
+      "03": "/api/earthquakes/date/1999-03.json",
+      "04": "/api/earthquakes/date/1999-04.json",
+      "05": "/api/earthquakes/date/1999-05.json",
+      "06": "/api/earthquakes/date/1999-06.json",
+      "07": "/api/earthquakes/date/1999-07.json",
+      "08": "/api/earthquakes/date/1999-08.json",
+      "09": "/api/earthquakes/date/1999-09.json"
+    },
+    "2000": {
+      "10": "/api/earthquakes/date/2000-10.json",
+      "11": "/api/earthquakes/date/2000-11.json",
+      "12": "/api/earthquakes/date/2000-12.json",
+      "complete": "/api/earthquakes/date/2000.json",
+      "01": "/api/earthquakes/date/2000-01.json",
+      "02": "/api/earthquakes/date/2000-02.json",
+      "03": "/api/earthquakes/date/2000-03.json",
+      "04": "/api/earthquakes/date/2000-04.json",
+      "05": "/api/earthquakes/date/2000-05.json",
+      "06": "/api/earthquakes/date/2000-06.json",
+      "07": "/api/earthquakes/date/2000-07.json",
+      "08": "/api/earthquakes/date/2000-08.json",
+      "09": "/api/earthquakes/date/2000-09.json"
+    },
+    "2001": {
+      "10": "/api/earthquakes/date/2001-10.json",
+      "11": "/api/earthquakes/date/2001-11.json",
+      "12": "/api/earthquakes/date/2001-12.json",
+      "complete": "/api/earthquakes/date/2001.json",
+      "01": "/api/earthquakes/date/2001-01.json",
+      "02": "/api/earthquakes/date/2001-02.json",
+      "03": "/api/earthquakes/date/2001-03.json",
+      "04": "/api/earthquakes/date/2001-04.json",
+      "05": "/api/earthquakes/date/2001-05.json",
+      "06": "/api/earthquakes/date/2001-06.json",
+      "07": "/api/earthquakes/date/2001-07.json",
+      "08": "/api/earthquakes/date/2001-08.json",
+      "09": "/api/earthquakes/date/2001-09.json"
+    },
+    "2002": {
+      "10": "/api/earthquakes/date/2002-10.json",
+      "11": "/api/earthquakes/date/2002-11.json",
+      "12": "/api/earthquakes/date/2002-12.json",
+      "complete": "/api/earthquakes/date/2002.json",
+      "01": "/api/earthquakes/date/2002-01.json",
+      "02": "/api/earthquakes/date/2002-02.json",
+      "03": "/api/earthquakes/date/2002-03.json",
+      "04": "/api/earthquakes/date/2002-04.json",
+      "05": "/api/earthquakes/date/2002-05.json",
+      "06": "/api/earthquakes/date/2002-06.json",
+      "07": "/api/earthquakes/date/2002-07.json",
+      "08": "/api/earthquakes/date/2002-08.json",
+      "09": "/api/earthquakes/date/2002-09.json"
+    },
+    "2003": {
+      "10": "/api/earthquakes/date/2003-10.json",
+      "11": "/api/earthquakes/date/2003-11.json",
+      "12": "/api/earthquakes/date/2003-12.json",
+      "complete": "/api/earthquakes/date/2003.json",
+      "01": "/api/earthquakes/date/2003-01.json",
+      "02": "/api/earthquakes/date/2003-02.json",
+      "03": "/api/earthquakes/date/2003-03.json",
+      "04": "/api/earthquakes/date/2003-04.json",
+      "05": "/api/earthquakes/date/2003-05.json",
+      "06": "/api/earthquakes/date/2003-06.json",
+      "07": "/api/earthquakes/date/2003-07.json",
+      "08": "/api/earthquakes/date/2003-08.json",
+      "09": "/api/earthquakes/date/2003-09.json"
+    },
+    "2004": {
+      "10": "/api/earthquakes/date/2004-10.json",
+      "11": "/api/earthquakes/date/2004-11.json",
+      "12": "/api/earthquakes/date/2004-12.json",
+      "complete": "/api/earthquakes/date/2004.json",
+      "01": "/api/earthquakes/date/2004-01.json",
+      "02": "/api/earthquakes/date/2004-02.json",
+      "03": "/api/earthquakes/date/2004-03.json",
+      "04": "/api/earthquakes/date/2004-04.json",
+      "05": "/api/earthquakes/date/2004-05.json",
+      "06": "/api/earthquakes/date/2004-06.json",
+      "07": "/api/earthquakes/date/2004-07.json",
+      "08": "/api/earthquakes/date/2004-08.json",
+      "09": "/api/earthquakes/date/2004-09.json"
+    },
+    "2005": {
+      "10": "/api/earthquakes/date/2005-10.json",
+      "11": "/api/earthquakes/date/2005-11.json",
+      "12": "/api/earthquakes/date/2005-12.json",
+      "complete": "/api/earthquakes/date/2005.json",
+      "01": "/api/earthquakes/date/2005-01.json",
+      "02": "/api/earthquakes/date/2005-02.json",
+      "03": "/api/earthquakes/date/2005-03.json",
+      "04": "/api/earthquakes/date/2005-04.json",
+      "05": "/api/earthquakes/date/2005-05.json",
+      "06": "/api/earthquakes/date/2005-06.json",
+      "07": "/api/earthquakes/date/2005-07.json",
+      "08": "/api/earthquakes/date/2005-08.json",
+      "09": "/api/earthquakes/date/2005-09.json"
+    },
+    "2006": {
+      "10": "/api/earthquakes/date/2006-10.json",
+      "11": "/api/earthquakes/date/2006-11.json",
+      "12": "/api/earthquakes/date/2006-12.json",
+      "complete": "/api/earthquakes/date/2006.json",
+      "01": "/api/earthquakes/date/2006-01.json",
+      "02": "/api/earthquakes/date/2006-02.json",
+      "03": "/api/earthquakes/date/2006-03.json",
+      "04": "/api/earthquakes/date/2006-04.json",
+      "05": "/api/earthquakes/date/2006-05.json",
+      "06": "/api/earthquakes/date/2006-06.json",
+      "07": "/api/earthquakes/date/2006-07.json",
+      "08": "/api/earthquakes/date/2006-08.json",
+      "09": "/api/earthquakes/date/2006-09.json"
+    },
+    "2007": {
+      "10": "/api/earthquakes/date/2007-10.json",
+      "11": "/api/earthquakes/date/2007-11.json",
+      "12": "/api/earthquakes/date/2007-12.json",
+      "complete": "/api/earthquakes/date/2007.json",
+      "01": "/api/earthquakes/date/2007-01.json",
+      "02": "/api/earthquakes/date/2007-02.json",
+      "03": "/api/earthquakes/date/2007-03.json",
+      "04": "/api/earthquakes/date/2007-04.json",
+      "05": "/api/earthquakes/date/2007-05.json",
+      "06": "/api/earthquakes/date/2007-06.json",
+      "07": "/api/earthquakes/date/2007-07.json",
+      "08": "/api/earthquakes/date/2007-08.json",
+      "09": "/api/earthquakes/date/2007-09.json"
+    },
+    "2008": {
+      "10": "/api/earthquakes/date/2008-10.json",
+      "11": "/api/earthquakes/date/2008-11.json",
+      "12": "/api/earthquakes/date/2008-12.json",
+      "complete": "/api/earthquakes/date/2008.json",
+      "01": "/api/earthquakes/date/2008-01.json",
+      "02": "/api/earthquakes/date/2008-02.json",
+      "03": "/api/earthquakes/date/2008-03.json",
+      "04": "/api/earthquakes/date/2008-04.json",
+      "05": "/api/earthquakes/date/2008-05.json",
+      "06": "/api/earthquakes/date/2008-06.json",
+      "07": "/api/earthquakes/date/2008-07.json",
+      "08": "/api/earthquakes/date/2008-08.json",
+      "09": "/api/earthquakes/date/2008-09.json"
+    },
+    "2009": {
+      "10": "/api/earthquakes/date/2009-10.json",
+      "11": "/api/earthquakes/date/2009-11.json",
+      "12": "/api/earthquakes/date/2009-12.json",
+      "complete": "/api/earthquakes/date/2009.json",
+      "01": "/api/earthquakes/date/2009-01.json",
+      "02": "/api/earthquakes/date/2009-02.json",
+      "03": "/api/earthquakes/date/2009-03.json",
+      "04": "/api/earthquakes/date/2009-04.json",
+      "05": "/api/earthquakes/date/2009-05.json",
+      "06": "/api/earthquakes/date/2009-06.json",
+      "07": "/api/earthquakes/date/2009-07.json",
+      "08": "/api/earthquakes/date/2009-08.json",
+      "09": "/api/earthquakes/date/2009-09.json"
+    },
+    "2010": {
+      "10": "/api/earthquakes/date/2010-10.json",
+      "11": "/api/earthquakes/date/2010-11.json",
+      "12": "/api/earthquakes/date/2010-12.json",
+      "complete": "/api/earthquakes/date/2010.json",
+      "01": "/api/earthquakes/date/2010-01.json",
+      "02": "/api/earthquakes/date/2010-02.json",
+      "03": "/api/earthquakes/date/2010-03.json",
+      "04": "/api/earthquakes/date/2010-04.json",
+      "05": "/api/earthquakes/date/2010-05.json",
+      "06": "/api/earthquakes/date/2010-06.json",
+      "07": "/api/earthquakes/date/2010-07.json",
+      "08": "/api/earthquakes/date/2010-08.json",
+      "09": "/api/earthquakes/date/2010-09.json"
+    },
+    "2011": {
+      "10": "/api/earthquakes/date/2011-10.json",
+      "11": "/api/earthquakes/date/2011-11.json",
+      "12": "/api/earthquakes/date/2011-12.json",
+      "complete": "/api/earthquakes/date/2011.json",
+      "01": "/api/earthquakes/date/2011-01.json",
+      "02": "/api/earthquakes/date/2011-02.json",
+      "03": "/api/earthquakes/date/2011-03.json",
+      "04": "/api/earthquakes/date/2011-04.json",
+      "05": "/api/earthquakes/date/2011-05.json",
+      "06": "/api/earthquakes/date/2011-06.json",
+      "07": "/api/earthquakes/date/2011-07.json",
+      "08": "/api/earthquakes/date/2011-08.json",
+      "09": "/api/earthquakes/date/2011-09.json"
+    },
+    "2012": {
+      "10": "/api/earthquakes/date/2012-10.json",
+      "11": "/api/earthquakes/date/2012-11.json",
+      "12": "/api/earthquakes/date/2012-12.json",
+      "complete": "/api/earthquakes/date/2012.json",
+      "01": "/api/earthquakes/date/2012-01.json",
+      "02": "/api/earthquakes/date/2012-02.json",
+      "03": "/api/earthquakes/date/2012-03.json",
+      "04": "/api/earthquakes/date/2012-04.json",
+      "05": "/api/earthquakes/date/2012-05.json",
+      "06": "/api/earthquakes/date/2012-06.json",
+      "07": "/api/earthquakes/date/2012-07.json",
+      "08": "/api/earthquakes/date/2012-08.json",
+      "09": "/api/earthquakes/date/2012-09.json"
+    },
+    "2013": {
+      "10": "/api/earthquakes/date/2013-10.json",
+      "11": "/api/earthquakes/date/2013-11.json",
+      "12": "/api/earthquakes/date/2013-12.json",
+      "complete": "/api/earthquakes/date/2013.json",
+      "01": "/api/earthquakes/date/2013-01.json",
+      "02": "/api/earthquakes/date/2013-02.json",
+      "03": "/api/earthquakes/date/2013-03.json",
+      "04": "/api/earthquakes/date/2013-04.json",
+      "05": "/api/earthquakes/date/2013-05.json",
+      "06": "/api/earthquakes/date/2013-06.json",
+      "07": "/api/earthquakes/date/2013-07.json",
+      "08": "/api/earthquakes/date/2013-08.json",
+      "09": "/api/earthquakes/date/2013-09.json"
+    },
+    "2014": {
+      "complete": "/api/earthquakes/date/2014.json",
+      "01": "/api/earthquakes/date/2014-01.json",
+      "02": "/api/earthquakes/date/2014-02.json"
+    }
+  }
+}
